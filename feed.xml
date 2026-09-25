@@ -4,7 +4,196 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-24T14:26:57.452682+00:00</updated>
+  <updated>2026-09-25T09:31:36.145264+00:00</updated>
+  <entry>
+    <title>MASSIF has a forest now. A real one.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wp2eap/massif_has_a_forest_now_a_real_one/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wp2eap/massif_has_a_forest_now_a_real_one/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/7vwa4rkz4hrh1.png?width=140&amp;amp;height=84&amp;amp;auto=webp&amp;amp;s=afede6d5f939894236feeb8995fc3c89410a2490" alt=""&gt;&lt;/p&gt;&lt;p&gt;MASSIF's forest generator rebuilds eleven tree species from a single seed, each with its own altitude/slope/sun-exposure niche, forming realistic species stands rather than random mixing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deep procedural ecosystem/terrain generation, core interest.&lt;/em&gt; · score 9/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fully procedural underwater rain, real-time on a phone: analytic water surface, Minnaert-modelled bubble audio, wall-clock timing so it runs 10 hours without drift</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wp4tzj/fully_procedural_underwater_rain_realtime_on_a/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wp4tzj/fully_procedural_underwater_rain_realtime_on_a/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/mvs7kl0slhrh1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=20c9e05a6607a4ed7434bdada129b19910d38fd3" alt=""&gt;&lt;/p&gt;&lt;p&gt;A solo iOS sleep app renders underwater rain entirely procedurally: analytic ring-function water surface in a fragment shader plus Minnaert-resonance-synthesized bubble audio, no asset files.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural shader and audio synthesis technique deep-dive.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How to blur images at 20,000 FPS (or 50 microseconds)</title>
+    <link href="https://www.youtube.com/watch?v=YJVYX8tllj4"/>
+    <id>https://www.youtube.com/watch?v=YJVYX8tllj4</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Acerola</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i2.ytimg.com/vi/YJVYX8tllj4/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Acerola video walks through blur algorithms (box, gaussian, kawase, dual kawase) as a lens into GPU shader concepts like race conditions and separable convolution.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Graphics/shader programming craft, general but relevant.&lt;/em&gt; · score 8/10 · Acerola&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Yet another planet renderer :)</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wpd76w/yet_another_planet_renderer/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wpd76w/yet_another_planet_renderer/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZN1hBpYSwZTPkWFC2FSEZhaRmC-1Jvc6mGqAPajM2gg.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=914124b1651862a584d54964032acb483daeb793" alt=""&gt;&lt;/p&gt;&lt;p&gt;A hobbyist planet renderer now has orbiting planets with axial spin and a frame-of-reference camera system that reattaches to the nearest celestial body.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procgen + orbital mechanics, matches space tycoon work.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>My daily arcade game generates the course, the music and the colour palette from the date, so every player worldwide gets the identical run</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wpgsrz/my_daily_arcade_game_generates_the_course_the/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wpgsrz/my_daily_arcade_game_generates_the_course_the/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/Mmhxanh0Y2t4anJoMbdCFo_0BgAyCzCMND0uCf0jJjXaiM_kUKMo9aH-UIeU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9b4599936e2642ecd357b5cd885860483fbbdf9d" alt=""&gt;&lt;/p&gt;&lt;p&gt;A daily arcade game derives its course, music, and palette from the UTC date via a seeded PRNG, using a solvability-constrained depth-walk so every player's shared run is fair.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Clever seeded procedural generation with design constraints.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Google’s Project Suncatcher to put ML infrastructure in space</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/"/>
+    <id>https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.width-1300.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Google's Project Suncatcher aims to put machine-learning compute infrastructure into space, per an NYT report generating heavy HN discussion.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Space/tech crossover but light on engineering detail.&lt;/em&gt; · score 7/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Practicing for Safe Landings on the Moon and Beyond</title>
+    <link href="https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/"/>
+    <id>https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>NASA</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.nasa.gov/wp-content/uploads/2026/09/afrc2026-0179-18orig.jpg?w=2048" alt=""&gt;&lt;/p&gt;&lt;p&gt;NASA is drone-testing its SPLICE guidance and navigation system, simulating precision lunar descent and landing near Edwards AFB.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Real lander engineering, relevant space tech.&lt;/em&gt; · score 7/10 · NASA&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Perseverance Reveals How Complex Water Systems Shaped the Jezero Crater on Early Mars</title>
+    <link href="https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars"/>
+    <id>https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Universe Today</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.universetoday.com/article_images/1_-_PIA26815_-_Mastcam-Z_360_Turquoise_Bay_Sols933-944_L0_natural_copy_20260924_213445.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;A new study using Perseverance data shows Jezero Crater's 'Margin Unit' formed through ancient lakes, groundwater flow, and hydrothermal activity.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable Mars science discovery.&lt;/em&gt; · score 7/10 · Universe Today&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Landmass transformation sandbox with atmospheric variables</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wpjp8y/landmass_transformation_sandbox_with_atmospheric/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wpjp8y/landmass_transformation_sandbox_with_atmospheric/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;A procedural landmass-transformation sandbox tool incorporates atmospheric variables into terrain generation (details sparse from the post).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Terrain/procgen sandbox tool, core interest area.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Solution for FoV-independent weapon view without stacking cameras</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wp9x8a/solution_for_fovindependent_weapon_view_without/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wp9x8a/solution_for_fovindependent_weapon_view_without/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZzJ2OXJ5aGxnaXJoMbKpdHDAmdZ0enTrR9V5PwC4OKYUYOxclhB9lx5JRQUQ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3e3234a998cdb6ebc5f2bb150b367b665a13cd3c" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity FPS technique avoids the performance cost of stacked additive cameras for FoV-independent weapon rendering by scaling the weapon small and parenting it to the camera rig.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Unity rendering/architecture trick.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</title>
+    <link href="https://github.com/devdotfast/whiteboard"/>
+    <id>https://github.com/devdotfast/whiteboard</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/ac42141144ef101242a88f6265fd289efc816fd778fdc59b82204c0beaacf9a8/devdotfast/whiteboard" alt=""&gt;&lt;/p&gt;&lt;p&gt;Whiteboard is a new open-source desktop IDE (YC W26) for humans and AI agents to collaboratively architect software, integrating with tools like Claude Code.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agentic dev tooling built around Claude Code.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Key takeaways from Clair Obscur Audio Post Mortem | GDC 2026</title>
+    <link href="https://www.youtube.com/shorts/jMc4LnTDa8Y"/>
+    <id>https://www.youtube.com/shorts/jMc4LnTDa8Y</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>GDC</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i3.ytimg.com/vi/jMc4LnTDa8Y/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;GDC session recap on Clair Obscur: Expedition 33's audio pipeline, emphasizing keeping the system simple.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Game postmortem but audio-focused, outside core systemic-design interest.&lt;/em&gt; · score 6/10 · GDC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Runway’s WorldPrompt and the Engineering of Real-Time Worlds</title>
+    <link href="https://www.latent.space/p/runway"/>
+    <id>https://www.latent.space/p/runway</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Latent Space</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!DK3x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0ffa910-ac51-45f1-8fb1-e9c2dcda1e8b_1800x1130.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Runway's WorldPrompt/GWM Worlds 2 uses persistent context and timed actions to generate real-time interactive video-and-audio worlds.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: AI world-model tech, tangential to game dev interests.&lt;/em&gt; · score 6/10 · Latent Space&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Swiss Engineers Just Designed a Better 'Shock Absorber' for Spacecraft</title>
+    <link href="https://www.universetoday.com/articles/swiss-engineers-just-designed-a-better-shock-absorber-for-spacecraft"/>
+    <id>https://www.universetoday.com/articles/swiss-engineers-just-designed-a-better-shock-absorber-for-spacecraft</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Universe Today</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.universetoday.com/article_images/37d825bb539bcbc1c649559a8e5c75ea6dd0f768-92098025_20260923_120407.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Swiss engineers designed an improved shock-absorbing mechanism to protect delicate spacecraft components like mirrors from launch g-forces.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Real spacecraft engineering detail.&lt;/em&gt; · score 6/10 · Universe Today&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Sakurai’s Object: A Stellar Rebirth</title>
+    <link href="https://www.centauri-dreams.org/2026/09/24/sakurais-object-a-stellar-rebirth/"/>
+    <id>https://www.centauri-dreams.org/2026/09/24/sakurais-object-a-stellar-rebirth/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Centauri Dreams</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.centauri-dreams.org/wp-content/uploads/2026/09/Sakurai.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;An essay on Sakurai's Object, a star undergoing a rare 'born-again' stellar rebirth process, with a sci-fi framing nod.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Astronomy discovery with interstellar sci-fi tie-in.&lt;/em&gt; · score 6/10 · Centauri Dreams&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Working on a reusable 3D dual-grid tile system for Unity, What do you think?</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wpp9ir/working_on_a_reusable_3d_dualgrid_tile_system_for/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wpp9ir/working_on_a_reusable_3d_dualgrid_tile_system_for/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MTZ4bnpjb2J6bHJoMRHQvoL0ZBHW9yqPWZhppLfJqzyx74Bu5wCrFKDFdef9.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4e82a41850b0b09a75435a6984b40017147e2b4e" alt=""&gt;&lt;/p&gt;&lt;p&gt;A reusable 3D dual-grid tile system for Unity supports chunked, persistent, automatically-resolving procedural world generation across two grid layers.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity procedural tooling directly applicable to dev work.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Assemblydefinitions, folders and namespaces</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wp9u52/assemblydefinitions_folders_and_namespaces/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wp9u52/assemblydefinitions_folders_and_namespaces/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;A developer questions how Unity assembly definitions interact with folder structure and namespaces in Visual Studio's project view.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity engineering nuance, somewhat basic troubleshooting.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Why is the liver so weirdly regenerative?</title>
+    <link href="https://dynomight.substack.com/p/liver"/>
+    <id>https://dynomight.substack.com/p/liver</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Books"/>
+    <content type="html">&lt;p&gt;An explainer on why the liver regenerates unusually well compared to other organs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Off-topic biology, no relevance.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>commit-rewriter 0.2</title>
+    <link href="https://simonwillison.net/2026/Sep/24/commit-rewriter/"/>
+    <id>https://simonwillison.net/2026/Sep/24/commit-rewriter/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Release notes for commit-rewriter 0.2, a git tool, adding support for running against non-default branches.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Small git workflow dev tool update.&lt;/em&gt; · score 5/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NASA chief concerned China may deny access to parts of Moon's south pole</title>
+    <link href="https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"/>
+    <id>https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>Ars Technica Space</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2292466102-500x500.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;NASA's chief expresses concern China could restrict access to strategically valuable areas of the Moon's south pole.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Space politics/business, low technical content.&lt;/em&gt; · score 5/10 · Ars Technica Space&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NASA Unveils Winning Designs for Mars Space Food Systems Challenge</title>
+    <link href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"/>
+    <id>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/</id>
+    <updated>2026-09-25T09:30:41.033672+00:00</updated>
+    <author><name>NASA</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.nasa.gov/wp-content/uploads/2024/07/mars-to-table.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;NASA announced winners of its Deep Space Food Challenge for Mars-suitable food systems, led by a $300,000 prize design.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Routine NASA program announcement.&lt;/em&gt; · score 5/10 · NASA&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>The Entire Minecraft World, From One Block to 3.6 Billion km²</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wonb8q/the_entire_minecraft_world_from_one_block_to_36/"/>
