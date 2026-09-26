@@ -4,7 +4,232 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-25T09:31:36.145264+00:00</updated>
+  <updated>2026-09-26T09:18:53.117949+00:00</updated>
+  <entry>
+    <title>One seed, one creature: a daily pixel-art bestiary with Inca-woven silhouettes</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wqi7d9/one_seed_one_creature_a_daily_pixelart_bestiary/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wqi7d9/one_seed_one_creature_a_daily_pixelart_bestiary/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/djZqcGQ3a2F2c3JoMSghsSKKUTAuCpyXyEOo0iwHLNBA7fR5hSW88HkAHiPx.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1333faf00e8e54f119bca5f2005c3c8c2481f851" alt=""&gt;&lt;/p&gt;&lt;p&gt;A generative art project mints one procedural pixel-art creature daily from a seeded genome (body, limbs, horns, woven Inca motifs), rendered via SDF tubes with Bayer dithering; new traits use independent RNG streams so existing creatures never change.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Direct procgen/seed-based generation match.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I built wet-oil paint mixing (Kubelka–Munk) in Unity so players can forge The Starry Night by hand</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wq7cir/i_built_wetoil_paint_mixing_kubelkamunk_in_unity/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wq7cir/i_built_wetoil_paint_mixing_kubelkamunk_in_unity/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZWw4MG1majFhcXJoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=be0f5269d1c1f6d1af8be5876a1c58e80b1e45f3" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity developer implemented Kubelka-Munk pigment mixing to simulate realistic wet-oil paint blending, letting players recreate Starry Night by hand.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deep Unity shader/rendering technique.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Revealing the details of how OpenAI agents hacked Hugging Face</title>
+    <link href="https://swarmtraces.org/"/>
+    <id>https://swarmtraces.org/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796" alt=""&gt;&lt;/p&gt;&lt;p&gt;A writeup details how OpenAI's agentic models were used to hack Hugging Face infrastructure.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agentic AI security case study, dev tooling relevant.&lt;/em&gt; · score 7/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Plan mode is dead</title>
+    <link href="https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html"/>
+    <id>https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;An essay argues that dedicated 'plan mode' workflows in coding agents are becoming obsolete as agent capabilities evolve.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Directly about agentic coding workflows like Claude Code.&lt;/em&gt; · score 7/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Note on 24th September 2026</title>
+    <link href="https://simonwillison.net/2026/Sep/24/harder/"/>
+    <id>https://simonwillison.net/2026/Sep/24/harder/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Simon Willison argues coding agents paradoxically make software engineering harder, requiring more discipline to use well.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical take on AI coding agent tooling.&lt;/em&gt; · score 7/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>After seven years, a spacecraft company is releasing its Otters into the wild</title>
+    <link href="https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/"/>
+    <id>https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Ars Technica Space</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett-500x500.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A spacecraft company is finally flying its 'Otter' spacecraft after seven years of development.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Real spacecraft engineering/launch milestone.&lt;/em&gt; · score 7/10 · Ars Technica Space&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>With PRIMA, NASA will try to build a billion-dollar space telescope in record time</title>
+    <link href="https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/"/>
+    <id>https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Ars Technica Space</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-500x500.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;NASA's PRIMA mission will reuse spare James Webb telescope hardware to build a billion-dollar space telescope quickly and cheaply.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable space mission engineering news.&lt;/em&gt; · score 7/10 · Ars Technica Space&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Astronomers Find a Sub-Neptune Orbiting Completely Backward Around a Red Dwarf</title>
+    <link href="https://www.universetoday.com/articles/astronomers-find-a-sub-neptune-orbiting-completely-backward-around-a-red-dwarf"/>
+    <id>https://www.universetoday.com/articles/astronomers-find-a-sub-neptune-orbiting-completely-backward-around-a-red-dwarf</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Universe Today</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.universetoday.com/article_images/WEB_eso1016a_20260923_134323.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Astronomers discovered a sub-Neptune exoplanet orbiting a red dwarf in the opposite direction to the star's rotation, the first confirmed retrograde planetary orbit.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable orbital-mechanics astronomy discovery.&lt;/em&gt; · score 7/10 · Universe Today&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Gravity seems holographic. What does that mean for reality?</title>
+    <link href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/"/>
+    <id>https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.quantamagazine.org/wp-content/uploads/2026/09/Qualia-Holography-cr.Ada-Zejun-Shen-Default.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Quantamagazine piece explores the idea that gravity may be holographic and what that implies about the nature of reality.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Theoretical physics, tangential to hard sci-fi interest.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return</title>
+    <link href="https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/"/>
+    <id>https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Ars Technica Space</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-500x500.jpeg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Ars Technica's rocket roundup covers Astra targeting an early 2027 return and debates whether the era of cheap launch is ending.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Space industry launch business news.&lt;/em&gt; · score 6/10 · Ars Technica Space&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch</title>
+    <link href="https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"/>
+    <id>https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>NASA</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://images-assets.nasa.gov/image/933/933~large.jpg?w=1920&amp;amp;h=1440&amp;amp;fit=clip&amp;amp;crop=faces%2Cfocalpoint" alt=""&gt;&lt;/p&gt;&lt;p&gt;NASA tested a new dual-mode propulsion CubeSat that combines maneuvering fuel systems to simplify spacecraft design ahead of launch.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Real spacecraft propulsion engineering.&lt;/em&gt; · score 6/10 · NASA&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>What Do They Run on America's Fastest SuperComputer?</title>
+    <link href="https://www.youtube.com/watch?v=HlsyZAWnOu8"/>
+    <id>https://www.youtube.com/watch?v=HlsyZAWnOu8</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Scott Manley</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i1.ytimg.com/vi/HlsyZAWnOu8/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Scott Manley tours Lawrence Livermore's El Capitan, the exaflop-scale supercomputer, explaining what workloads it actually runs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Space-adjacent creator covering serious computing engineering.&lt;/em&gt; · score 6/10 · Scott Manley&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>My truck earned Explosive Rounds II inside the horde, then hit critical hull</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wpstjy/my_truck_earned_explosive_rounds_ii_inside_the/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wpstjy/my_truck_earned_explosive_rounds_ii_inside_the/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZmhjN3VvcHk4bnJoMTUbsLqgkfR3jfJtea5K2OEYxG6m02mNVFlqJFIWx2Ir.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2fbac7fd3e6aedeeac3ed4fcbaf5fbcea5218e67" alt=""&gt;&lt;/p&gt;&lt;p&gt;A solo dev shares a clip of their Unity/Codex-built driving prototype where a truck levels up mid-combat and takes critical damage.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Self-promo prototype clip, little technical depth.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How we built a freeform loadout system in Unity with a socket tree (PC + VR)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wprvlv/how_we_built_a_freeform_loadout_system_in_unity/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wprvlv/how_we_built_a_freeform_loadout_system_in_unity/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MjdwejdwMHV5bXJoMTOKEZEfCARG4mV-QCOkRECTlfl-IORG6JC2Ue0b-O8F.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7e37ace4dfbd9a5f3f0f570734e0cb0855898de4" alt=""&gt;&lt;/p&gt;&lt;p&gt;Developers explain how they built a freeform weapon/character loadout system in Unity using a socket-tree architecture for a PC/VR tactical shooter.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: In-depth Unity architecture and tooling.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>What are Steam Deck’s biggest 2026 hits - and top genres?</title>
+    <link href="https://newsletter.gamediscover.co/p/what-are-steam-decks-biggest-2026"/>
+    <id>https://newsletter.gamediscover.co/p/what-are-steam-decks-biggest-2026</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>GameDiscoverCo</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!sww0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feab48b3c-581b-4c31-822f-202a04bbc289_1900x1069.jpeg" alt=""&gt;&lt;/p&gt;&lt;p&gt;GameDiscoverCo analyzes Steam Deck's biggest 2026 hits and top-performing genres on the handheld.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Indie business/market data on PC gaming.&lt;/em&gt; · score 5/10 · GameDiscoverCo&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>We're gonna need a lot more mathematicians</title>
+    <link href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"/>
+    <id>https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;Terence Tao argues that advancing mathematics (and AI-assisted proof work) will require far more mathematicians.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Adjacent math/AI essay, limited game/dev relevance.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>What even is an OS now?</title>
+    <link href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/"/>
+    <id>https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://sockpuppet.org/images/og-default.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;An essay questions what an operating system even means in an era of cloud services, containers, and agentic software.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: General programming/systems essay, tangential fit.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Keep if clauses side-effect free</title>
+    <link href="https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html"/>
+    <id>https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;A programming craft piece argues for keeping conditional (if) expressions free of side effects for clearer code.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: General programming craft, mild relevance.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How to keep enjoying programming in a world of LLMs</title>
+    <link href="https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"/>
+    <id>https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://us1.discourse-cdn.com/flex002/uploads/haskell/original/1X/89166504e40f4869ea825dd70048017861ec8578.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;An essay reflects on how to stay motivated and find enjoyment in programming as LLM coding assistants become dominant.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Touches on coding with AI agents.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A Type Stronger than the Sum of its Components</title>
+    <link href="https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/"/>
+    <id>https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.dropbox.com/scl/fi/e1twqezq77ga6ejbkxeqs/Screenshot-2026-09-24-at-3.09.22-PM.png?rlkey=evyikbm74s2ntz85sjs47ijpp&amp;amp;raw=1" alt=""&gt;&lt;/p&gt;&lt;p&gt;A piece discusses a type-system pattern where a composite type carries stronger guarantees than the sum of its parts.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: General programming/type-design craft.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The state of SIMD in Rust in 2026</title>
+    <link href="https://shnatsel.github.io/state-of-simd-rust-2026/"/>
+    <id>https://shnatsel.github.io/state-of-simd-rust-2026/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;An overview of the current state of SIMD support and ergonomics in the Rust language as of 2026.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Performance/graphics-adjacent programming craft.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>There is more to code review than (automatable) detection</title>
+    <link href="https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/"/>
+    <id>https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;An essay argues code review provides value beyond what automated detection tools can catch.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: General software engineering craft.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Quoting John Gruber</title>
+    <link href="https://simonwillison.net/2026/Sep/25/john-gruber/"/>
+    <id>https://simonwillison.net/2026/Sep/25/john-gruber/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Simon Willison quotes John Gruber on Meta's Muse, an agentic AI system giving each user a persistent cloud Linux VM, questioning if consumers grasp its implications.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agentic AI system architecture discussion.&lt;/em&gt; · score 5/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Hubble Spots Chaotic Secret in Galaxy</title>
+    <link href="https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/"/>
+    <id>https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>NASA</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg?w=2018" alt=""&gt;&lt;/p&gt;&lt;p&gt;NASA released a new Hubble image of spiral galaxy NGC 4698 highlighting hidden structural features.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Routine astronomy image release.&lt;/em&gt; · score 5/10 · NASA&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Amoebas and anniversaries</title>
+    <link href="https://www.planetary.org/the-downlink/amoebas-and-anniversaries"/>
+    <id>https://www.planetary.org/the-downlink/amoebas-and-anniversaries</id>
+    <updated>2026-09-26T09:16:26.218191+00:00</updated>
+    <author><name>Planetary Society</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/mcgetchin-crater.jpg?mtime=1790196090" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Planetary Society roundup covers a new lunar crater, heat-tolerant amoebas, and a Hubble anniversary.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Light space news digest, mostly routine.&lt;/em&gt; · score 5/10 · Planetary Society&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>MASSIF has a forest now. A real one.</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wp2eap/massif_has_a_forest_now_a_real_one/"/>
