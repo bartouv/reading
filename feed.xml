@@ -4,7 +4,97 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-27T06:09:05.123202+00:00</updated>
+  <updated>2026-09-27T08:05:06.142718+00:00</updated>
+  <entry>
+    <title>wshobson/agents</title>
+    <link href="https://github.com/wshobson/agents"/>
+    <id>https://github.com/wshobson/agents</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/09d57f889f66db81e2c0f9a2ea03f51cc6c4faa402e4a4463e36ccde5cfe6f00/wshobson/agents" alt=""&gt;&lt;/p&gt;&lt;p&gt;An open-source "agentic plugin marketplace" providing 94 plugins, 202 agents, 183 skills and 105 commands from one Markdown source, usable across Claude Code, Codex, Cursor, OpenCode, Copilot, and other agent harnesses.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New practical Claude Code agent tooling, directly usable.&lt;/em&gt; · score 8/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>anthropics/claude-code-action</title>
+    <link href="https://github.com/anthropics/claude-code-action"/>
+    <id>https://github.com/anthropics/claude-code-action</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/ec59994c99de9996b56e73925ec27c3636ba13682efd82e1a1b567e10149cb0b/anthropics/claude-code-action" alt=""&gt;&lt;/p&gt;&lt;p&gt;Anthropic's official GitHub Action lets Claude Code respond to PR/issue mentions and automate code changes, supporting API key, Bedrock, and Vertex auth.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Official Claude Code tool for real dev workflows.&lt;/em&gt; · score 8/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>microsoft/mcp</title>
+    <link href="https://github.com/microsoft/mcp"/>
+    <id>https://github.com/microsoft/mcp</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/963038660/9010d30c-795e-4b8a-a8a6-cd96cf920553" alt=""&gt;&lt;/p&gt;&lt;p&gt;Microsoft's official catalog of MCP (Model Context Protocol) server implementations for connecting AI apps to data sources and tools.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Useful new MCP tooling for agentic coding setups.&lt;/em&gt; · score 7/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>rohitg00/agentmemory</title>
+    <link href="https://github.com/rohitg00/agentmemory"/>
+    <id>https://github.com/rohitg00/agentmemory</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/40c6ee705d3edde665c3d8a761b0a5902e213d9782932e85d0e83598c14207cd/rohitg00/agentmemory" alt=""&gt;&lt;/p&gt;&lt;p&gt;An open-source persistent-memory layer for AI coding agents (Claude Code, Copilot CLI, Cursor, etc.) that adds confidence-scored memory so agents stop re-explaining context.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent tool addressing a real Claude Code pain point.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>strands-agents/harness-sdk</title>
+    <link href="https://github.com/strands-agents/harness-sdk"/>
+    <id>https://github.com/strands-agents/harness-sdk</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/95dd765ecdd02fadc90bc696a79f74a472f771f5d28cd628bb299e521984c8bb/strands-agents/harness-sdk" alt=""&gt;&lt;/p&gt;&lt;p&gt;Strands Agents is an open-source Python/TypeScript SDK for building and running model-driven AI agent harnesses without writing your own agent loop.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New framework for building custom agentic tooling.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>bmad-code-org/BMAD-METHOD</title>
+    <link href="https://github.com/bmad-code-org/BMAD-METHOD"/>
+    <id>https://github.com/bmad-code-org/BMAD-METHOD</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/611a2286079184f9a15b457fcdeba997bad01b8a3fa3628734a728a1a9b3aa5b/bmad-code-org/BMAD-METHOD" alt=""&gt;&lt;/p&gt;&lt;p&gt;BMAD-METHOD is an open-source "agile AI-driven development" process/framework for structuring how AI agents turn requirements into working software.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agentic dev workflow tool, could aid Claude Code use.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>lightningpixel/modly</title>
+    <link href="https://github.com/lightningpixel/modly"/>
+    <id>https://github.com/lightningpixel/modly</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://images.weserv.nl/?url=github.com/DrHepa.png&amp;amp;w=96&amp;amp;h=96&amp;amp;fit=cover&amp;amp;mask=circle" alt=""&gt;&lt;/p&gt;&lt;p&gt;Modly is a free desktop app that generates 3D meshes from photos or text prompts using local, GPU-run AI models, for Windows, Linux, and Apple Silicon.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Usable tool for generating game asset prototypes locally.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>One month without AI</title>
+    <link href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"/>
+    <id>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;A personal essay/discussion about deliberately going a month without using AI tools.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Generic AI opinion piece, low technical content.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Robot-use agents</title>
+    <link href="https://web.mit.edu/phillipi/www/writing/robot-use-agents.html"/>
+    <id>https://web.mit.edu/phillipi/www/writing/robot-use-agents.html</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;A Lobsters discussion thread about agents that operate robots, with only comments linked.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Vague agent-adjacent link with no real content.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>What Do They Run on America's Fastest SuperComputer?</title>
+    <link href="https://www.youtube.com/watch?v=HlsyZAWnOu8"/>
+    <id>https://www.youtube.com/watch?v=HlsyZAWnOu8</id>
+    <updated>2026-09-27T08:04:04.689540+00:00</updated>
+    <author><name>Scott Manley</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i1.ytimg.com/vi/HlsyZAWnOu8/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Scott Manley tours Lawrence Livermore's El Capitan, an exaflop-scale supercomputer, and explains what workloads it's built to run.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Interesting HPC engineering, tangential but well outside core interests.&lt;/em&gt; · score 5/10 · Scott Manley&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Minimal Neighborhoods for Evaluating Jittered Voronoi Grids</title>
     <link href="https://www.boristhebrave.com/2026/09/26/minimal-neighborhoods-for-evaluating-jittered-voronoi-grids/"/>
