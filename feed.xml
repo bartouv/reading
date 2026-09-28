@@ -4,7 +4,88 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-28T04:36:11.496701+00:00</updated>
+  <updated>2026-09-28T10:47:31.821183+00:00</updated>
+  <entry>
+    <title>Prompting Claude Opus 5.5</title>
+    <link href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5"/>
+    <id>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://platform.claude.com/web-api/og/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5?design-rev=2" alt=""&gt;&lt;/p&gt;&lt;p&gt;Official Anthropic docs on prompt-engineering techniques specific to the new Claude Opus 5.5 model.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable model release, practical agentic tooling guidance.&lt;/em&gt; · score 8/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>modelcontextprotocol/csharp-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/csharp-sdk"/>
+    <id>https://github.com/modelcontextprotocol/csharp-sdk</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/e9822202cb63cb234b9a114cb564f838a2b332a80d7aeddb7d7740e6532d7a3e/modelcontextprotocol/csharp-sdk" alt=""&gt;&lt;/p&gt;&lt;p&gt;Microsoft-backed official C# SDK for building Model Context Protocol clients and servers in .NET.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New C# tool for MCP/agent workflows, directly usable.&lt;/em&gt; · score 8/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ProwlEngine/Prowl</title>
+    <link href="https://github.com/ProwlEngine/Prowl"/>
+    <id>https://github.com/ProwlEngine/Prowl</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/234394f6fbbcfc5398f5c05fde095bb875a6014fee56db865eed1edc19fa4518/ProwlEngine/Prowl" alt=""&gt;&lt;/p&gt;&lt;p&gt;Prowl is an open-source MIT-licensed 3D game engine in pure C#/.NET with a Unity-like API and editor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: C# engine tooling relevant to Unity engineering interest.&lt;/em&gt; · score 7/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>pacifio/atlas</title>
+    <link href="https://github.com/pacifio/atlas"/>
+    <id>https://github.com/pacifio/atlas</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/81dcb3b2455d76e3cbcda07f0e6f5c818f84b8d88cece7c43bc8c54770680256/pacifio/atlas" alt=""&gt;&lt;/p&gt;&lt;p&gt;Atlas is a new source-control tool that tracks multiple coding agents' sessions, prompts, and changes in one place.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agentic dev tooling, exactly the kind wanted.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Starship's 14th Flight - Orbiting Safely?</title>
+    <link href="https://www.youtube.com/shorts/0dC2PeLdQ3A"/>
+    <id>https://www.youtube.com/shorts/0dC2PeLdQ3A</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>Scott Manley</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i1.ytimg.com/vi/0dC2PeLdQ3A/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Scott Manley analyzes Starship's 14th test flight and whether it reached a safe orbit.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Standout Starship engineering story, space interest.&lt;/em&gt; · score 7/10 · Scott Manley&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Some time ago I released glTFast 6.20.0. glTF 3D models with many external textures will…</title>
+    <link href="https://mastodon.gamedev.place/@tteneder/117347921621287640"/>
+    <id>https://mastodon.gamedev.place/@tteneder/117347921621287640</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>Mastodon #unity3d</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/347/919/188/052/558/original/629684deb9062472.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;glTFast 6.20.0 speeds up Unity editor import of glTF models with many external textures.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Unity tooling update, directly usable.&lt;/em&gt; · score 6/10 · Mastodon #unity3d&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>freemocap/freemocap</title>
+    <link href="https://github.com/freemocap/freemocap"/>
+    <id>https://github.com/freemocap/freemocap</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/b28b447e7c47c28fc2b89f2211d024351319df579519f9d148c93e461401445f/freemocap/freemocap" alt=""&gt;&lt;/p&gt;&lt;p&gt;freemocap is an open-source markerless motion capture toolkit using standard webcams.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Tangential tool, not core Unity/procgen/agent focus.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thinking fast and slow in AI: The role of metacognition (2021)</title>
+    <link href="https://arxiv.org/abs/2110.01834"/>
+    <id>https://arxiv.org/abs/2110.01834</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;2021 paper examining dual-process (fast/slow) reasoning framing applied to metacognition in AI systems.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Academic AI theory, low practical/agent-tooling value.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Shobr: Job seach CLI via browser automation, event-sourcing, LLM</title>
+    <link href="https://github.com/sebastiancarlos/shobr"/>
+    <id>https://github.com/sebastiancarlos/shobr</id>
+    <updated>2026-09-28T10:46:46.220865+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/81fa971397643fe9e0b1f90e68ec53767efadee57b27f78b5e9252ca77e8b8b1/sebastiancarlos/shobr" alt=""&gt;&lt;/p&gt;&lt;p&gt;Shobr is a CLI that automates job searching via browser automation, event sourcing, and an LLM.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Generic LLM tool unrelated to dev/game interests.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Procedurally generated Ba Sing Se in Minecraft</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wrp96b/procedurally_generated_ba_sing_se_in_minecraft/"/>
