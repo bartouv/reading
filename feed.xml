@@ -4,7 +4,160 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-27T10:45:08.786090+00:00</updated>
+  <updated>2026-09-28T04:36:11.496701+00:00</updated>
+  <entry>
+    <title>Procedurally generated Ba Sing Se in Minecraft</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wrp96b/procedurally_generated_ba_sing_se_in_minecraft/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wrp96b/procedurally_generated_ba_sing_se_in_minecraft/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MDhkb3J4c2ZkM3NoMSSU5KEjL1Ri6RtPmF1DT5Z8VkQuXohGn1CHxt7atQbw.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=57f4446bb7cbef8aeb7eb11a30c045548b3c6a46" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Minecraft settlement generator builds Ba Sing Se from a text prompt, planning districts, plots, and building geometry procedurally.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural city generation, directly relevant to your guild game.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fully procedural 2.5D terrain generator + painter for Godot. No assets, just code and shaders</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wrh067/fully_procedural_25d_terrain_generator_painter/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wrh067/fully_procedural_25d_terrain_generator_painter/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/OGY0MHBwNDNrMXNoMRQPg2QLpBtriK3cBnS3mvYJG_6TSZO-297YK5ybW5_q.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b335b5492fa395c3a55efb8130a0011648c37793" alt=""&gt;&lt;/p&gt;&lt;p&gt;A fully code-and-shader driven 2.5D terrain generator/painter for Godot, ported from a three.js prototype using Claude Code and Codex.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural terrain tool built with agentic coding assistants.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How Much Money my Indie Game Made (in 1 Year)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wrsh1g/how_much_money_my_indie_game_made_in_1_year/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wrsh1g/how_much_money_my_indie_game_made_in_1_year/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cGxqMzE2ZGQxNHNoMRL8EifZTxlN-gSShFTJxXdQWRHsrWjuQ1q5I7D1cpMO.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ed837708213fe8a6c853ab202074644d74263662" alt=""&gt;&lt;/p&gt;&lt;p&gt;An indie dev shares first-year revenue numbers and lessons from shipping their game.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Indie postmortem with real financial data.&lt;/em&gt; · score 8/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mesh Booleans in Unity (Sound On)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wrw2qx/mesh_booleans_in_unity_sound_on/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wrw2qx/mesh_booleans_in_unity_sound_on/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MTJ2eTBlc3FxNHNoMSIOaSlhn3ANrVMg3M1YmZnKCH6XBVNWBM8dwHh8Urzg.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1ef0bcd750a30c6159e9a61a2724243adccf8d12" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity plugin does real-time mesh boolean cuts with instant collider updates, wrapping the Manifold C++ CSG library in C#.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity C# rendering/geometry tool you could use.&lt;/em&gt; · score 8/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Decals without Depth/Normals prepass (good for mobile/VR)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wrpibe/decals_without_depthnormals_prepass_good_for/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wrpibe/decals_without_depthnormals_prepass_good_for/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/Y3p5cm53NWthM3NoMUQmA5S5TpS4gt7Tz7_SG3EAi-xN6cXGl-DZkWSJJPz5.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=46abb2da7d5dff2b056079cbfaf3f074e01cac3b" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity decal technique resolves decals in the receiver shader directly, avoiding expensive depth/normals prepasses for mobile/VR.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Unity shader/rendering technique for performance.&lt;/em&gt; · score 8/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Interactive, procedurally animated koi pond that runs in your browser.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wrnk0s/interactive_procedurally_animated_koi_pond_that/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wrnk0s/interactive_procedurally_animated_koi_pond_that/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/dGRjaHlhazMzM3NoMff_8Hy_fztuH-Rd3JAY9bRYcTqo1MIVeBsxIiHe2hUV.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=afb60da68063af56525a1a00afee82314b16040c" alt=""&gt;&lt;/p&gt;&lt;p&gt;A browser-based procedurally animated koi pond simulates fish behavior, ripples, and weather entirely through code, no pre-made art.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Boids-style emergent ecosystem simulation, matches your toys.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Help me name my planetary terrain generator + project updates</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wrot80/help_me_name_my_planetary_terrain_generator/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wrot80/help_me_name_my_planetary_terrain_generator/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/241e6u5a83sh1.png?width=140&amp;amp;height=122&amp;amp;auto=webp&amp;amp;s=19a5c2e6dc152729fd3bbfa366ab18671509242d" alt=""&gt;&lt;/p&gt;&lt;p&gt;A planetary-scale terrain generator uses a GAN trained on terrain patches with a WFC-inspired loss; author seeks a new project name.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: WFC/ML terrain generation overlaps your procedural work.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Simple procedural generator for side-view of caves</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wrpwwn/simple_procedural_generator_for_sideview_of_caves/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wrpwwn/simple_procedural_generator_for_sideview_of_caves/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/i8a2m8ofi3sh1.png?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=93bd9a62debd7f0598b65c07c202444d0ba5095d" alt=""&gt;&lt;/p&gt;&lt;p&gt;A simple tool generates side-view fantasy cave backgrounds from noise, with adjustable palettes, lighting, and dithering.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Small procedural generation toy, niche but on-topic.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>1 million of ragdoll</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wrzfbc/1_million_of_ragdoll/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wrzfbc/1_million_of_ragdoll/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/NzkyMDFpNGtnNXNoMdScbgaRw8XvJ3SYn_7nHw2AciuolWYgasc3tLTOqAQ8.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a754065020f1cb963d7e3b0c69615ed2d1d97d4f" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev stress-tests their strategy game engine by rendering a million cheap ragdoll units alongside optimized unit rendering.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity performance engineering for large-scale sim rendering.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Keeping the fallen soldiers in the scene changed how my Unity battles look</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wrqthz/keeping_the_fallen_soldiers_in_the_scene_changed/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wrqthz/keeping_the_fallen_soldiers_in_the_scene_changed/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;A Unity strategy game keeps dead soldiers visible by freezing ragdoll physics into combined, simplified meshes instead of running sims forever.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity architecture/performance trick for systemic battle games.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi</title>
+    <link href="https://loficities.com/"/>
+    <id>https://loficities.com/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://loficities.com/img/og/home.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A browser Show HN project generates pixel-art city night scenes paired with procedurally generated lofi music.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generative art project, loosely relevant toy.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>2026 in LLMs (so far)</title>
+    <link href="https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"/>
+    <id>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/2026-in-llms/simon-willison-2026-in-llms-png.001.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Simon Willison's keynote recap traces the major LLM developments and trends throughout 2026 so far.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Overview of AI/agent tooling trends from a trusted source.&lt;/em&gt; · score 6/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Four ways to get a human (or a goblin) into your game, running entirely on a CPU-only…</title>
+    <link href="https://www.urbanmind.net/display/f7dd981d-ef2899f6-531ca706b4ea3282"/>
+    <id>https://www.urbanmind.net/display/f7dd981d-ef2899f6-531ca706b4ea3282</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;A gamedev tutorial covers four CPU-only methods to generate human or goblin 3D characters for games without needing a GPU.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical AI content-generation tooling for indie gamedev.&lt;/em&gt; · score 5/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>In an $80 motel room, a discovery to shed light on the origins of life</title>
+    <link href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html"/>
+    <id>https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;A NYT piece describes a chance motel-room discovery relevant to theories about the origins of life.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Science curiosity but off-profile, low technical relevance.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fakecloud: Local AWS cloud emulator for integration tests</title>
+    <link href="https://fakecloud.dev/"/>
+    <id>https://fakecloud.dev/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Fakecloud is a local emulator of AWS services for running integration tests without real cloud infrastructure.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: General dev tool, only tangential to your Unity/game stack.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thorsten Ball - What I believe about the future of software development</title>
+    <link href="https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/"/>
+    <id>https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Thorsten Ball lays out his views on how AI coding agents will reshape software development practice.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Opinion essay on agentic dev tooling you use daily.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Bluesky reply bot checker</title>
+    <link href="https://simonwillison.net/2026/Sep/27/bluesky-bot-check/"/>
+    <id>https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</id>
+    <updated>2026-09-28T04:35:21.902668+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Simon Willison vibe-coded a tool with Opus 5.5 to detect automated reply bots swarming his Bluesky posts.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New LLM-built tool discovery, matches your loved item.&lt;/em&gt; · score 5/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>wshobson/agents</title>
     <link href="https://github.com/wshobson/agents"/>
