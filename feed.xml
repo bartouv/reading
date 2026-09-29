@@ -4,7 +4,214 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-28T10:47:31.821183+00:00</updated>
+  <updated>2026-09-29T10:34:46.130245+00:00</updated>
+  <entry>
+    <title>Procedural planet generation by simulating 3 billion years of plate tectonics</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wsm8z5/procedural_planet_generation_by_simulating_3/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wsm8z5/procedural_planet_generation_by_simulating_3/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/552piqm1xash1.png?width=140&amp;amp;height=70&amp;amp;auto=webp&amp;amp;s=6e66facae205cea128945c05b969fc6566b1e8fa" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer builds procedural planets by simulating 3 billion years of plate tectonics, then linking it to a high-resolution map. Snapshots show the same planet at several points in its evolution.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Simulation-driven planet generation; fits terrain procgen and space tycoon terraforming.&lt;/em&gt; · score 9/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Simulating a planet to generate a map for a 4X game</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wt5e15/simulating_a_planet_to_generate_a_map_for_a_4x/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wt5e15/simulating_a_planet_to_generate_a_map_for_a_4x/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/tbouve4tefsh1.jpg?width=140&amp;amp;height=64&amp;amp;auto=webp&amp;amp;s=6242a11ba017bb2876056b4ffdf1165aab79fc0b" alt=""&gt;&lt;/p&gt;&lt;p&gt;A 4X game's map generator builds planets in stages: tectonic plates, heat, ocean currents, and more, each feeding the next. Older planets get more eroded relief.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Systemic procedural map generation, directly relevant to your procgen and strategy work.&lt;/em&gt; · score 9/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>My autobattler simulates tens of thousands of units in plain C# (no DOTS), and a headless bot plays thousands of games each night to catch balance mistakes</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wstx5g/my_autobattler_simulates_tens_of_thousands_of/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wstx5g/my_autobattler_simulates_tens_of_thousands_of/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/aDdyMWQ1amdlY3NoMYM8SoRyJjK-lvPGFUgU3Jqwyy0idONafToTk_QFfTkM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=374636f7494afc67392ff3dcf05ab15fd7614385" alt=""&gt;&lt;/p&gt;&lt;p&gt;Devs of the autobattler Oaks vs Orcs explain how they simulate tens of thousands of units in plain C# with data-oriented layout. A headless bot plays thousands of games nightly to catch balance problems.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Headless sim balance testing and C# performance in Unity.&lt;/em&gt; · score 9/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Sonnet 5.5</title>
+    <link href="https://www.anthropic.com/claude-sonnet-5-5"/>
+    <id>https://www.anthropic.com/claude-sonnet-5-5</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Anthropic announces Sonnet 5.5, with a large HN discussion. The snippet gives no details beyond the link.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable Claude model release relevant to your agentic dev workflow.&lt;/em&gt; · score 9/10 · Hacker News&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>10,000 Animated World-Space Icons. One Draw Call.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wsn14v/10000_animated_worldspace_icons_one_draw_call/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wsn14v/10000_animated_worldspace_icons_one_draw_call/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/jfyttv6z2bsh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d8d9d3a737e9a4d03de8b39d14d2b98736ac1406" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity write-up on rendering 10,000 animated world-space icons in a single draw call, to show in-world information to players.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity rendering and draw-call optimization, your blog's core topic.&lt;/em&gt; · score 8/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Claude Code’s Next Era — Thariq Shihipar, Anthropic</title>
+    <link href="https://www.latent.space/p/thariq"/>
+    <id>https://www.latent.space/p/thariq</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Latent Space</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!A4NZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F217893105%2Fc63d4f50-ca5f-459a-b368-281f73e3765e%2Ftranscoded-1790641303.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Latent Space interview with Anthropic's Thariq Shihipar on Claude Code's direction. Topics include the Opus/Sonnet 5.5 releases, plugins, and projects.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Direct insight into Claude Code's roadmap and workflows.&lt;/em&gt; · score 8/10 · Latent Space&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural world generation</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wt3cwb/procedural_world_generation/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wt3cwb/procedural_world_generation/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MTdxMTM4OW1zZXNoMRTvftqkUlVrnwvNbgmGuVdDpvyA675Cnog1E-iHPVSR.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=16c6e971475238a4e2c92cc532e930a44cc3b998" alt=""&gt;&lt;/p&gt;&lt;p&gt;A realtime procedural world generator using Unity's BatchRendererGroup and many Burst jobs, without ECS. Panning is still somewhat slow.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity Burst/Jobs and BRG procedural terrain, closely matches your interests.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>My roguelike has no art files at all. Every enemy, boss and bullet gets drawn pixel by pixel in C# when the game boots</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wswyip/my_roguelike_has_no_art_files_at_all_every_enemy/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wswyip/my_roguelike_has_no_art_files_at_all_every_enemy/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/c3BnZnBwMXkzZHNoMZqQztbJ5XBNH-ObxKHLUKq2qnd1wZFFSoh-j1QPEfhI.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ab126c522a6501f4be4620915e825d950fe56bb2" alt=""&gt;&lt;/p&gt;&lt;p&gt;A roguelike generates all its enemy, boss and bullet art in C# at boot, drawing into Color[] arrays with a shared shading function. Only UI icons are PNGs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural art in Unity C#, relevant to your ink-on-parchment rendering.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I Added Wildfires to My Game. They Spread Naturally.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wsmmk4/i_added_wildfires_to_my_game_they_spread_naturally/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wsmmk4/i_added_wildfires_to_my_game_they_spread_naturally/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/R_mFjdux25OJElroU9rM3qCAoYWcYzr3BsCTrKyunuI.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f42b1b3faf0cf17f0745252e5bdac0894048c7dc" alt=""&gt;&lt;/p&gt;&lt;p&gt;A hex-terrain game gets wildfires that raise temperature, evaporate water, spread to neighboring hexes and burn foliage that later regrows.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Emergent ecosystem simulation on a hex map, systemic design.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpaceX's Starship goes orbital, deploying first next-gen Starlinks</title>
+    <link href="https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/"/>
+    <id>https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Ars Technica Space</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-500x500.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Starship reached orbit on its latest flight and deployed the first next-generation Starlink satellites.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Standout Starship milestone, though space news is only medium priority.&lt;/em&gt; · score 7/10 · Ars Technica Space&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://www.youtube.com/watch?v=BznLzTXhNaI"&gt;Scott Manley&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Poolrooms Slides</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wsqndq/poolrooms_slides/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wsqndq/poolrooms_slides/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/mhwieuxpqbsh1.png?width=140&amp;amp;height=86&amp;amp;auto=webp&amp;amp;s=8a472c2660984387ee017c1ea4e9dde7bfc675c2" alt=""&gt;&lt;/p&gt;&lt;p&gt;A short update adding slides to a WFC-generated 'Poolrooms' environment, with a link to the earlier post.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: WFC generation, but a thin update with little substance.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Every UI Toolkit Filter/Backdrop Filter in under 60 seconds</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wsf1tl/every_ui_toolkit_filterbackdrop_filter_in_under/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wsf1tl/every_ui_toolkit_filterbackdrop_filter_in_under/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bDhjZ21zanpsOXNoMQHbLw9IdEn1_lC2Nbn2haERJNtKPHLPiuR7hPOc3h7G.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e5bed7626385c7ae30bd179e76c4c9abd7aff22" alt=""&gt;&lt;/p&gt;&lt;p&gt;A short LlamAcademy video showing every native UI Toolkit filter and backdrop filter, a new feature in Unity 6.6.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Unity 6.6 UI feature, relevant but narrow.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I wrote a blog post about heraldry, mon, and procedural generation. I'm pretty proud of…</title>
+    <link href="https://floss.social/@skysong/117349639079571965"/>
+    <id>https://floss.social/@skysong/117349639079571965</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Mastodon #procgen</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;A blog post comparing Japanese mon and Western heraldry and how they apply to procedural generation, researched with books.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procgen design that could inspire faction emblems in your guild game.&lt;/em&gt; · score 6/10 · Mastodon #procgen&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>microsoft/SkillOpt</title>
+    <link href="https://github.com/microsoft/SkillOpt"/>
+    <id>https://github.com/microsoft/SkillOpt</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/66620b32b4e10769b17dd60a8cf66fdb9c23892dc96d88c7abaa0c6450f714c6/microsoft/SkillOpt" alt=""&gt;&lt;/p&gt;&lt;p&gt;Microsoft's SkillOpt trains reusable natural-language skills for frozen LLM agents. It uses trajectory-driven edits and validation gates, with no weight changes, and produces a best_skill.md file.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent-skill tooling, related to your Claude Code workflow.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Emissive lighting totally different between Unity projects</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wswjsd/emissive_lighting_totally_different_between_unity/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wswjsd/emissive_lighting_totally_different_between_unity/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/bwneit1uzcsh1.png?width=140&amp;amp;height=70&amp;amp;auto=webp&amp;amp;s=db46755cdd7f37eef3a561fb34e24cde8d73a632" alt=""&gt;&lt;/p&gt;&lt;p&gt;A user asks why an emissive material used as a fake light volume looks blown out in one Unity project but fine in another with the same settings.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity rendering question, but a basic support post.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title># GamedevKit now has simplified Unity installation. Instead of downloading the dynamic…</title>
+    <link href="https://mastodon.gamedev.place/@sagittaras/117353614300848542"/>
+    <id>https://mastodon.gamedev.place/@sagittaras/117353614300848542</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;GamedevKit, a Unity library set, can now be installed through OpenUPM instead of downloading dynamic libraries from GitHub Releases.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity package tooling, though few details on what it offers.&lt;/em&gt; · score 5/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms</title>
+    <link href="https://github.com/firelex/jeff"/>
+    <id>https://github.com/firelex/jeff</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/4cb75fdb743cab452f7d7e6c8842e2bfaf09c7ea5b2f937f7f1de910bbbb41b8/firelex/jeff" alt=""&gt;&lt;/p&gt;&lt;p&gt;Jeff is a GitHub project of 0.8B-parameter decision models trained at home, with about 30 ms inference. It has a large HN discussion.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Small, fast local models might fit game AI or tooling.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>MicroLLM Lab – Try 7 tiny LLM's in the browser</title>
+    <link href="https://stateofutopia.com/experiments/microllmlab/"/>
+    <id>https://stateofutopia.com/experiments/microllmlab/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;A browser demo that lets you try seven tiny LLMs locally.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Mildly interesting LLM tool, but not directly useful.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Deterministic Concurrency</title>
+    <link href="https://www.youtube.com/watch?v=25x0UuSCKuU"/>
+    <id>https://www.youtube.com/watch?v=25x0UuSCKuU</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;A Lobsters link to a piece on deterministic concurrency, with no description.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deterministic concurrency matters for simulation, but the details are unknown.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?</title>
+    <link href="https://jonclegg.github.io/pacman-bakeoff/"/>
+    <id>https://jonclegg.github.io/pacman-bakeoff/</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Pac-Bench tests how well model and harness combinations one-shot a Pac-Man game as a single HTML page.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: LLM game-coding benchmark, mildly relevant to agentic dev.&lt;/em&gt; · score 5/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>alirezarezvani/claude-skills</title>
+    <link href="https://github.com/alirezarezvani/claude-skills"/>
+    <id>https://github.com/alirezarezvani/claude-skills</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/25bc72a2d76347ca9ac63cb3a362928d02a771553dd312c3ea302ab747c27bc5/alirezarezvani/claude-skills" alt=""&gt;&lt;/p&gt;&lt;p&gt;A large collection of 380+ Claude Code skills, plugins and commands that also works with other coding agents, covering engineering, marketing and more.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Claude Code skills collection, though bulk and breadth suggest low quality.&lt;/em&gt; · score 5/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>topoteretes/cognee</title>
+    <link href="https://github.com/topoteretes/cognee"/>
+    <id>https://github.com/topoteretes/cognee</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/3371176c89dd0bc3ace5dc0c0fdba6b1ce3f3c57269848334958b49baffbc7e0/topoteretes/cognee" alt=""&gt;&lt;/p&gt;&lt;p&gt;Cognee is an open-source memory platform for AI agents. It builds a self-hosted knowledge graph for persistent memory across sessions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent memory tooling you might try with Claude workflows.&lt;/em&gt; · score 5/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>HelpCode-ai/anythingmcp</title>
+    <link href="https://github.com/HelpCode-ai/anythingmcp"/>
+    <id>https://github.com/HelpCode-ai/anythingmcp</id>
+    <updated>2026-09-29T10:34:18.142040+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/1169252093/fb73aae9-b54e-48c8-81ee-9475ac7a1894" alt=""&gt;&lt;/p&gt;&lt;p&gt;AnythingMCP is a self-hosted gateway that turns REST, SOAP, GraphQL, OData or SQL APIs into MCP tools, with 265 connectors focused on ERP and e-commerce.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: MCP tooling, though the enterprise focus limits its use for you.&lt;/em&gt; · score 5/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Prompting Claude Opus 5.5</title>
     <link href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5"/>
