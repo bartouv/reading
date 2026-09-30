@@ -4,7 +4,214 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-29T10:34:46.130245+00:00</updated>
+  <updated>2026-09-30T10:24:12.296736+00:00</updated>
+  <entry>
+    <title>I made my 3D fighting game look hand-drawn, in real time.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wtox9b/i_made_my_3d_fighting_game_look_handdrawn_in_real/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wtox9b/i_made_my_3d_fighting_game_look_handdrawn_in_real/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cWh6ZG91dzVpanNoMU60KHTomKjyquTRBIrYaQUkAMLmoX198iQ-rf_CuOJ0.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=05e4cff220e2e14b0c5d47892738f4c8dfb9d0d4" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity URP custom render pass turns 3D fighting-game models into a hand-drawn sketch look. It uses per-object normal, depth and ID buffers for outlines, hatching in shadows, and re-randomized line wobble every few frames.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Custom URP render pass; ink-on-parchment style matches your rendering interests.&lt;/em&gt; · score 8/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural Trees Rapid Growth Test For Space RTS</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wt801i/procedural_trees_rapid_growth_test_for_space_rts/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wt801i/procedural_trees_rapid_growth_test_for_space_rts/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MzNlbGtqemM2Z3NoMYc6oCuIHrIz0D2GNYxzM99RBAGsuffbHw78b4U1Wy0z.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3baff5661f1a0798b65a185ea76a19a6121610b6" alt=""&gt;&lt;/p&gt;&lt;p&gt;A quick test of procedural tree growth (thickness, height, stages, branch density) for a space RTS. The trees grow game units and take stats from asteroid resources.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural growth in a space game; relevant to your generation work.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Experimenting with a custom Render Pipeline and Physics Engine.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wtj08e/experimenting_with_a_custom_render_pipeline_and/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wtj08e/experimenting_with_a_custom_render_pipeline_and/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/OGduNHR1Y2s5aXNoMVr3ndeU5KTPwQvnbRETRpZ52CBgQpmBxvVcgvpzGl4c.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=339ef8dcdd75391896ce0802613c8aba397ebebd" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer shows a custom Scriptable Render Pipeline using hardware ray tracing and voxels, plus a custom DOTS-based physics engine with material-dependent fracture and deformation.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deep Unity rendering and DOTS engineering, custom SRP.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Real-time Solar System with 526k asteroids and all tracked satellites</title>
+    <link href="https://space.bl2.net/"/>
+    <id>https://space.bl2.net/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;Show HN of a real-time solar system visualization with 526k asteroids and all tracked satellites, viewable in the browser.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Orbital mechanics visualization; relevant to your space tycoon.&lt;/em&gt; · score 7/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural Spider Mechs. 150 individual parts, 5-10 variants per part. Millions of mech combos. 100% math. Each spider is created in 50ms fully. Fully procedural rigged for gameplay in UE.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wti96o/procedural_spider_mechs_150_individual_parts_510/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wti96o/procedural_spider_mechs_150_individual_parts_510/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/0ohet0k27ish1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e18a62be6e46748100338c98d526cc246a88c12e" alt=""&gt;&lt;/p&gt;&lt;p&gt;A demo of procedural spider mechs built from 150 parts with 5-10 variants each. Each is assembled in 50ms and rigged for gameplay in Unreal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation, though in Unreal and with little detail.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I was finally able to implement block distortion for my city builder)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wtjrlk/i_was_finally_able_to_implement_block_distortion/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wtjrlk/i_was_finally_able_to_implement_block_distortion/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/Y3VkMHc1MGVoaXNoMdB_ZIYkhPgVdiHLtkfaeugx7i3KFuiGZOk_32lgfnSm.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=56b2f7e957e88b648ed4905ca3f4030e01c75cf5" alt=""&gt;&lt;/p&gt;&lt;p&gt;A short post showing block distortion implemented in a city builder. There is no text explanation.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: City-builder visuals, but thin on technical detail.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Solving Factorio Quality https:// exyr.org/2026/solving-factorio -quality/ Comments:…</title>
+    <link href="https://mastodon.social/@h4ckernews/117358776587037498"/>
+    <id>https://mastodon.social/@h4ckernews/117358776587037498</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;A blog post on solving Factorio's quality system, an optimization problem in the game's production mechanics.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Factory-game economy optimization; systemic design analysis.&lt;/em&gt; · score 6/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>"You will not be using belts": Satisfactory's first expansion isn't the same game set underground - there's a whole new set of resource-moving toys to master</title>
+    <link href="https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master"/>
+    <id>https://www.rockpapershotgun.com/you-will-not-be-using-belts-satisfactorys-first-expansion-isnt-the-same-game-set-underground-theres-a-whole-new-set-of-resource-moving-toys-to-master</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Rock Paper Shotgun</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://assetsio.gnwcdn.com/Satisfactory-core-values-key-art.jpg?width=690&amp;amp;quality=85&amp;amp;format=jpg&amp;amp;auto=webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Preview of Satisfactory's first expansion, Core Values, set in an underground biome. It adds new resource-moving mechanics beyond belts.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable factory/management game with new systemic mechanics.&lt;/em&gt; · score 6/10 · Rock Paper Shotgun&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>"A quite beautiful compromise": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players</title>
+    <link href="https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players"/>
+    <id>https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Rock Paper Shotgun</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://assetsio.gnwcdn.com/lego-skylines_0004_firefighter.jpg?width=690&amp;amp;quality=85&amp;amp;format=jpg&amp;amp;auto=webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Preview of LEGO Skylines, a city builder from Iceflake Studios. The devs explain why they dropped brick-by-brick building.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New city-builder with design tradeoffs discussed.&lt;/em&gt; · score 6/10 · Rock Paper Shotgun&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Now that my procedural spiders are fighting.... it's time to give them modular gun mounts of course. FYI, It's all math from the models to the animations.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wtiblx/now_that_my_procedural_spiders_are_fighting_its/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wtiblx/now_that_my_procedural_spiders_are_fighting_its/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/NXYxbDVjcnM3aXNoMURr6rLA1ZllLXNZFr1wOC15t3eoPnxCMqNgmElpuhZ1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0801a173bbd9d96554673e979ebb6cbb58748fb4" alt=""&gt;&lt;/p&gt;&lt;p&gt;Follow-up showing the procedural spiders with modular gun mounts. Models and animations are all generated by math.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation, but repetitive and low detail.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How about 100 procedurally generated, animated, and armed mecha spiders playable in UE.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wtn5zi/how_about_100_procedurally_generated_animated_and/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wtn5zi/how_about_100_procedurally_generated_animated_and/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/YnhtdjQ2bDM1anNoMURr6rLA1ZllLXNZFr1wOC15t3eoPnxCMqNgmElpuhZ1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f3ea25cb9596e2a4537f03315e5b441008664c94" alt=""&gt;&lt;/p&gt;&lt;p&gt;A clip of 100 procedurally generated, animated, armed mecha spiders playable in Unreal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation, but a repeat post with no detail.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Potentia - Sieve - Library of Babel-esque project I have been working on.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wt9fiv/potentia_sieve_library_of_babelesque_project_i/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wt9fiv/potentia_sieve_library_of_babelesque_project_i/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/bvycblx6igsh1.png?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=d5d781795004eaef9c47923e19a082b87d642cf2" alt=""&gt;&lt;/p&gt;&lt;p&gt;A long writeup of Potentia - Sieve, a Library of Babel-style project mapping combinatorial spaces, drawing on the I Ching and related ideas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Loosely procedural, but abstract and hard to assess.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>My main menu switches to night based on your real clock, with a smooth URP day/night blend</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wthmh1/my_main_menu_switches_to_night_based_on_your_real/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wthmh1/my_main_menu_switches_to_night_based_on_your_real/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZW5lcGF6Y3kyaXNoMf9_v8T7k1lMXglum1Xb_hlqX7fw-4o8gtnQg0EEXZAM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=35e45e727b52ff6268f1bfecdff9e79bc345efa9" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity 2022.3 URP main menu that switches between day and night from the system clock. It blends lights, post-processing volumes and ambient color, and uses MaterialPropertyBlocks for window emission.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Unity URP techniques, though fairly basic.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Day night cycle experiment...</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wu0s0g/day_night_cycle_experiment/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wu0s0g/day_night_cycle_experiment/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/dWdhZW9vOWZxbXNoMbUyC0lqz2MOf2WgZE1yIWTqHcCyfnqtW3H_DlvWJgfM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ead05233d9b4799fb4c618f231edd51c4dd9e4f4" alt=""&gt;&lt;/p&gt;&lt;p&gt;A voxel engine experiment in Unity with a day/night cycle and adaptive global illumination. World streaming is currently disabled.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity voxel rendering and GI experiment.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Unity's OnEnable() and OnDisable() methods look simple, but they can cause some…</title>
+    <link href="https://www.urbanmind.net/display/f7dd981d-d6c58fe7-6e841408343f875c"/>
+    <id>https://www.urbanmind.net/display/f7dd981d-d6c58fe7-6e841408343f875c</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Mastodon #unity3d</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;A post on five common mistakes with Unity's OnEnable() and OnDisable() methods.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity C# craft, likely introductory.&lt;/em&gt; · score 5/10 · Mastodon #unity3d&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>In today's episode of "Save files are hard": Do I want to keep save files as raw binary…</title>
+    <link href="https://mastodon.gamedev.place/@HexagonNico/117359257659938436"/>
+    <id>https://mastodon.gamedev.place/@HexagonNico/117359257659938436</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/359/250/824/093/076/original/d78d800a96cf948f.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev weighs binary against JSON for save files in Godot. The trade-offs are size, speed, format-change breakage and readability.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Serialization tradeoffs you blog about, though shallow and Godot-based.&lt;/em&gt; · score 5/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>okay, so in a lot of video games, collision checks run using a bunch of discrete "does…</title>
+    <link href="https://toot.cat/@rnd/117359127210074753"/>
+    <id>https://toot.cat/@rnd/117359127210074753</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/cache/media_attachments/files/117/359/127/258/556/020/original/ce63d05525f719c6.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev suggests swept-volume collision checks (a hitbox covering the whole move) to avoid tunneling at high speeds.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Game programming craft on collision detection.&lt;/em&gt; · score 5/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>What do s&amp;box’s issues (so far) tell us about launching platforms in 2026?</title>
+    <link href="https://newsletter.gamediscover.co/p/what-do-s-and-boxs-issues-so-far"/>
+    <id>https://newsletter.gamediscover.co/p/what-do-s-and-boxs-issues-so-far</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>GameDiscoverCo</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/youtube/w_728,c_limit/b7lgOL6dzpY" alt=""&gt;&lt;/p&gt;&lt;p&gt;GameDiscoverCo looks at the problems s&amp;amp;box has had so far and what they say about launching platforms in 2026, plus news and a new podcast.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Indie business analysis, but platform-focused rather than about your genres.&lt;/em&gt; · score 5/10 · GameDiscoverCo&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: NSL – WSL for Linux</title>
+    <link href="https://frostyard.github.io/nsl/"/>
+    <id>https://frostyard.github.io/nsl/</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Show HN of NSL, a WSL-like experience for Linux. A single VM hosts systemd-nspawn containers for multiple distros, with file and port sharing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New dev tool, but not aimed at Unity or agent work.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Dirty Optimization Secrets (C for Playdate)</title>
+    <link href="https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011"/>
+    <id>https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://devforum-cdn.play.date/original/2X/c/c0b050e7998ebafd5d1721a985b313050be81ce1.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Lobsters link to a post on low-level optimization tricks for C on the Playdate handheld.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Performance craft outside Unity, of general interest.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Q00/ouroboros</title>
+    <link href="https://github.com/Q00/ouroboros"/>
+    <id>https://github.com/Q00/ouroboros</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/1133901637/30cac0a1-246c-4457-9e2a-dcf28bdfcfa6" alt=""&gt;&lt;/p&gt;&lt;p&gt;Ouroboros is an MCP server and agent framework with an interview-gated, staged-evaluation, budgeted evolution loop. It runs on 14 runtimes including Claude Code, Codex CLI and Gemini CLI.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent tooling with Claude Code and MCP support.&lt;/em&gt; · score 5/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Outersloth Budget and Investment Clip #1</title>
+    <link href="https://www.youtube.com/shorts/W9kE7-snoos"/>
+    <id>https://www.youtube.com/shorts/W9kE7-snoos</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>GDC</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i4.ytimg.com/vi/W9kE7-snoos/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;A GDC clip on Outersloth's investment budget: a $25M over 5 years assumption and how it played out.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Indie game funding data, but just a short clip.&lt;/em&gt; · score 5/10 · GDC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Superheavy Launch - Ultra Slow Motion</title>
+    <link href="https://www.youtube.com/shorts/k8I6CARIALM"/>
+    <id>https://www.youtube.com/shorts/k8I6CARIALM</id>
+    <updated>2026-09-30T10:23:43.115104+00:00</updated>
+    <author><name>Scott Manley</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i4.ytimg.com/vi/k8I6CARIALM/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Scott Manley posts an ultra slow-motion video of a Super Heavy booster launch.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Starship footage; a standout space topic but light on content.&lt;/em&gt; · score 5/10 · Scott Manley&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Procedural planet generation by simulating 3 billion years of plate tectonics</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wsm8z5/procedural_planet_generation_by_simulating_3/"/>
