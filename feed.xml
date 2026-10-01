@@ -4,7 +4,241 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-09-30T10:24:12.296736+00:00</updated>
+  <updated>2026-10-01T10:50:28.910565+00:00</updated>
+  <entry>
+    <title>IvanMurzak/Unity-MCP</title>
+    <link href="https://github.com/IvanMurzak/Unity-MCP"/>
+    <id>https://github.com/IvanMurzak/Unity-MCP</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/959123498/e8a8db93-70b0-4e8b-a304-6c40771fc909" alt=""&gt;&lt;/p&gt;&lt;p&gt;Open-source MCP server, skills and CLI that connect Claude Code, Cursor and others to the Unity Editor and runtime. Any C# method can be exposed as a tool with one line.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Directly usable Unity + Claude Code tooling for your workflow.&lt;/em&gt; · score 10/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I made a Source-style dev console for Unity.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wudfef/i_made_a_sourcestyle_dev_console_for_unity/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wudfef/i_made_a_sourcestyle_dev_console_for_unity/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/xvsw3phsepsh1.gif?width=640&amp;amp;crop=smart&amp;amp;s=6cfc0d9d54e9950737e19609820dd6bd0fd0e1de" alt=""&gt;&lt;/p&gt;&lt;p&gt;A drop-down Source-style developer console for Unity where commands are registered via static ConsoleCommand objects in C#. Shared on GitHub.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Handy Unity debug tooling, useful for headless-ish testing of sims.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>mksglu/context-mode</title>
+    <link href="https://github.com/mksglu/context-mode"/>
+    <id>https://github.com/mksglu/context-mode</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/f06a3ce7c9935bae42e3ee49d127da3ae2985d3a3323c052e834a01e0ee233b3/mksglu/context-mode" alt=""&gt;&lt;/p&gt;&lt;p&gt;MCP plugin and hooks that sandbox tool output to cut context-window use for AI coding agents, claiming 98% reduction, with session memory across many platforms.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Claude Code context tooling you could try.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>anthropics/claude-code</title>
+    <link href="https://github.com/anthropics/claude-code"/>
+    <id>https://github.com/anthropics/claude-code</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/308a63fa009637f7397d2278d9ceab0017283554faac81ada3c1e6e0ce922cb4/anthropics/claude-code" alt=""&gt;&lt;/p&gt;&lt;p&gt;Official repo for Anthropic's Claude Code, a terminal-based agentic coding tool that handles code explanation, routine tasks and git workflows.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: The agent tool you already use heavily.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>World's Largest Slingshot Threw A Spacecraft To Earth!</title>
+    <link href="https://www.youtube.com/watch?v=0P7Y5LwKIMc"/>
+    <id>https://www.youtube.com/watch?v=0P7Y5LwKIMc</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Scott Manley</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i1.ytimg.com/vi/0P7Y5LwKIMc/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Scott Manley covers the 2007 YES2 mission, which deployed a 30 km tether to swing a capsule back to Earth without rockets. The return capsule's fate is unknown.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Orbital mechanics and tethers, a standout space engineering story.&lt;/em&gt; · score 7/10 · Scott Manley&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>First time here, thought I'd share some procedural sea creatures I've been working on for a game</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wu4300/first_time_here_thought_id_share_some_procedural/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wu4300/first_time_here_thought_id_share_some_procedural/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZGFyZ3EwODdtbnNoMQPuYzK8XdikPBZYfHwAk9uVY4P9aOEdHKOGC2ztIAG9.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cccd0b316868b83f2ddbb5aa1d696b0bcf46827d" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer shares procedurally generated sea creatures made for a game, with images only and no technical description.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural sea life fits your living-sea ecosystem toys.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mold: Highly performant and customizable Vector Graphics Library</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wu8bmg/mold_highly_performant_and_customizable_vector/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wu8bmg/mold_highly_performant_and_customizable_vector/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/rfh70tbpbosh1.gif?frame=1&amp;amp;width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=44d972e589eaadc8f9f773196fcaf8e8eb46821d" alt=""&gt;&lt;/p&gt;&lt;p&gt;Mold is a vector graphics library for Unity that draws shapes in-engine without external tools, now in full release with four sample scenes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Unity rendering library, relevant to your ink-style visuals.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Come build an RTS with me! We are going full homebrew with DOD, spatial indexing, split simulation from rendering and eventually multiplayer.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wuc1sk/come_build_an_rts_with_me_we_are_going_full/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wuc1sk/come_build_an_rts_with_me_we_are_going_full/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/UP--XwLt-UGWJSirZDDWaC1EGCOblrZENOrTWnNyYgo.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3bb0d63bde005fb66b9d1bd86ad5cd2556cfbac1" alt=""&gt;&lt;/p&gt;&lt;p&gt;A video series building an RTS from scratch with data-oriented design without ECS, spatial indexing, bit packing, GC reduction, and separating simulation from rendering.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity performance and simulation architecture, closely matches your interests.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Gemini 4 Argon</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"/>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;HN thread on the release of Google's Gemini 4 Argon model, with very high engagement.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable model release, but little tied to your workflow.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Halfspace experimental IDE for solid modeling with distance fields</title>
+    <link href="https://www.mattkeeter.com/projects/halfspace/"/>
+    <id>https://www.mattkeeter.com/projects/halfspace/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://mattkeeter.com/projects/halfspace/hero@2x.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Matt Keeter presents Halfspace, an experimental IDE for solid modeling using signed distance fields.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Interesting graphics/SDF tooling, loosely related to your work.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</title>
+    <link href="https://github.com/magnitudedev/magnitude"/>
+    <id>https://github.com/magnitudedev/magnitude</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/c3002bb667936286f307539908d5e59c9d031d69b9c22a402387d0cc19aceb7d/magnitudedev/magnitude" alt=""&gt;&lt;/p&gt;&lt;p&gt;Launch HN for Magnitude, an inference engine that self-optimizes for local hardware and claims up to 2x faster than llama.cpp.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New LLM tooling, though local inference is peripheral.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SDF vs. MSDF vs. Slug: GPU Text Rendering</title>
+    <link href="https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/"/>
+    <id>https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;Comparison of GPU text rendering techniques: SDF, MSDF, Slug and Rive.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Graphics and shader craft relevant to Unity text rendering.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ComposioHQ/awesome-claude-skills</title>
+    <link href="https://github.com/ComposioHQ/awesome-claude-skills"/>
+    <id>https://github.com/ComposioHQ/awesome-claude-skills</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/3ef25745c7fae499e3ff7adca720c2b16c2c31e5a831ca4c93dc3166e89edce4/ComposioHQ/awesome-claude-skills" alt=""&gt;&lt;/p&gt;&lt;p&gt;A curated list of 1000+ Claude Skills and plugins for Claude Code and other coding agents, with an MCP gateway promotion.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Claude skills resource, though it's a list with vendor promotion.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>github/spec-kit</title>
+    <link href="https://github.com/github/spec-kit"/>
+    <id>https://github.com/github/spec-kit</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/adb56461dee98385aa20ee3aa39641162a51b39294592b6d697996e7b759f566/github/spec-kit" alt=""&gt;&lt;/p&gt;&lt;p&gt;GitHub's open-source toolkit giving coding agents structured spec-driven development processes and templates.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent workflow tooling you could adopt with Claude Code.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Check Out This Cozy Cyberpunk Life Sim Where You Build Business &amp; Explore Neon-Lit City</title>
+    <link href="https://80.lv/articles/check-out-this-cozy-cyberpunk-life-sim-where-you-build-business-explore-neon-lit-city/"/>
+    <id>https://80.lv/articles/check-out-this-cozy-cyberpunk-life-sim-where-you-build-business-explore-neon-lit-city/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>80 Level</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.80.lv/api/upload/post/40744/images/6a44d32bef001/cover_800x800.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Nivalis Nights, a cozy cyberpunk life sim with business building in a neon city, has launched on Steam.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Sim-adjacent new release, but cozy life sim is a loose match.&lt;/em&gt; · score 5/10 · 80 Level&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Sky/volumetric clouds test</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wu22ml/skyvolumetric_clouds_test/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wu22ml/skyvolumetric_clouds_test/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/NWx3OGZuMTkzbnNoMbkAX-omoP-ZEmmM_IzOgF7YYCNk5OvgeEoZJt8OBl5y.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f9729102020fa82faeb9257ada8a5512e0a2dd1c" alt=""&gt;&lt;/p&gt;&lt;p&gt;A volumetric sky and cloud test in a custom Vulkan engine, based on Nubis and Frostbite approaches.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Graphics programming with useful references, outside Unity.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>My procedural mech generator got new mech and locomotion types and now exports to Godot, Bevy, and UE.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wu93dh/my_procedural_mech_generator_got_new_mech_and/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wu93dh/my_procedural_mech_generator_got_new_mech_and/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/NmFiNGN5cmltb3NoMYMe9DgqDQQLKUMTnzZz3Jv1G-tntViB9Tcr4UqLxIZW.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9aa69b51f92d03257dc0fe94677aa608b5a534b8" alt=""&gt;&lt;/p&gt;&lt;p&gt;A procedural mech generator gains new mech and locomotion types and exports to Godot, Bevy and Unreal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation tool, though mechs are off-theme.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>We built a 2D route editor for a 90 km Unity road network</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wuetie/we_built_a_2d_route_editor_for_a_90_km_unity_road/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wuetie/we_built_a_2d_route_editor_for_a_90_km_unity_road/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cXFtYnJpM3RtcHNoMfYVwWH686XafmWhb4o4oE0DK1rwLi8Hd6XO1w7PS5Q5.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba2d50cc5b149f2fef76707c2e638eada2f7db02" alt=""&gt;&lt;/p&gt;&lt;p&gt;A racing game team built a 2D vector route editor over a 90 km EasyRoads3D road network, generating biarc paths through intersections.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity editor tooling and procedural road geometry.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Made a different UI for the unity editor, what do you think?</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wu6j98/made_a_different_ui_for_the_unity_editor_what_do/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wu6j98/made_a_different_ui_for_the_unity_editor_what_do/</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/9ku61csj4osh1.png?width=140&amp;amp;height=75&amp;amp;auto=webp&amp;amp;s=ff25c30559f6dc8cb0cc9fc16f5723e90157917c" alt=""&gt;&lt;/p&gt;&lt;p&gt;Early concept of a Unity editor plugin with a fullscreen scene view and floating semi-transparent panels.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity editor tooling, but early and thin.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>"I always see it kind of like a triangle": The surprising challenge of making the perfectly-sized cave in Satisfactory expansion Core Values</title>
+    <link href="https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values"/>
+    <id>https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Rock Paper Shotgun</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://assetsio.gnwcdn.com/satisfactory-core-values-cat-creature_vibR3ac.jpg?width=690&amp;amp;quality=85&amp;amp;format=jpg&amp;amp;auto=webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;RPS looks at the design challenge of sizing caves in Satisfactory's Core Values expansion, which moves factory building underground.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Factory-sim level design with some procedural-space relevance.&lt;/em&gt; · score 5/10 · Rock Paper Shotgun&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ASM Bots: Core War in real 8086 machine code</title>
+    <link href="https://asmbots.io"/>
+    <id>https://asmbots.io</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://asmbots.io/api/pages/og.png?path=%2F" alt=""&gt;&lt;/p&gt;&lt;p&gt;ASM Bots is a Core War-style game where bots are written in real 8086 machine code.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Programming-game simulation, a fun but peripheral find.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Rust to WGSL transpiler `wgsl-rs` released</title>
+    <link href="https://renderling.xyz/articles/wgsl-rs-beta-release.html"/>
+    <id>https://renderling.xyz/articles/wgsl-rs-beta-release.html</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Release of wgsl-rs, a transpiler that converts Rust code to WGSL shaders.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New shader tooling, though Rust/WGSL isn't your stack.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Perfare/AssetStudio</title>
+    <link href="https://github.com/Perfare/AssetStudio"/>
+    <id>https://github.com/Perfare/AssetStudio</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/29da8d333266dbe3efba8af000bb1147365505b69d7cb9c551cbf4c4ed7488c1/Perfare/AssetStudio" alt=""&gt;&lt;/p&gt;&lt;p&gt;AssetStudio is a tool for exploring and extracting assets and asset bundles from Unity games, supporting versions 3.4 through 2022.1.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity tool, but old version support and a niche use.&lt;/em&gt; · score 5/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>pydantic/pydantic-ai</title>
+    <link href="https://github.com/pydantic/pydantic-ai"/>
+    <id>https://github.com/pydantic/pydantic-ai</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/6b26b426e5f5e75929609a95b39479577130eadf3f8309c21678bc061d3330dc/pydantic/pydantic-ai" alt=""&gt;&lt;/p&gt;&lt;p&gt;Pydantic AI is a typed Python agent framework supporting many models, voice, embeddings and durable execution.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent SDK, Python, possibly useful for tooling.&lt;/em&gt; · score 5/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>modelcontextprotocol/servers</title>
+    <link href="https://github.com/modelcontextprotocol/servers"/>
+    <id>https://github.com/modelcontextprotocol/servers</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/14f96bf885330aa6967de1724ac3276b8a3e1dab5696311d059a6c477b9bf1e8/modelcontextprotocol/servers" alt=""&gt;&lt;/p&gt;&lt;p&gt;Official repository of reference Model Context Protocol servers, pointing to the MCP Registry for community servers.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Core MCP resource for agent tooling.&lt;/em&gt; · score 5/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ChromeDevTools/chrome-devtools-mcp</title>
+    <link href="https://github.com/ChromeDevTools/chrome-devtools-mcp"/>
+    <id>https://github.com/ChromeDevTools/chrome-devtools-mcp</id>
+    <updated>2026-10-01T10:49:58.373701+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/c9da82a3980a78c9de640b3b8040069bb095c5eacb5bda5da09f126372ef7d93/ChromeDevTools/chrome-devtools-mcp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Chrome DevTools MCP server lets coding agents control, inspect and debug a live Chrome browser, with a CLI as well.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Useful agent tool, though browser-focused rather than Unity.&lt;/em&gt; · score 5/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>I made my 3D fighting game look hand-drawn, in real time.</title>
     <link href="https://www.reddit.com/r/Unity3D/comments/1wtox9b/i_made_my_3d_fighting_game_look_handdrawn_in_real/"/>
