@@ -4,7 +4,205 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-01T10:50:28.910565+00:00</updated>
+  <updated>2026-10-02T10:25:00.677501+00:00</updated>
+  <entry>
+    <title>Procedural Structures</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wvgunj/procedural_structures/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wvgunj/procedural_structures/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/7gfsr21jfysh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a6520ed121c67f53f8cac16bd985bfc9b63e4ecd" alt=""&gt;&lt;/p&gt;&lt;p&gt;Showcase of a user-driven build system that procedurally constructs structures from individual stones, posts, planks and tiles, with erosion and destruction modifiers for ruins.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural building generation with ruin modifiers; relevant to city generation.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Pi 1.0</title>
+    <link href="https://earendil.com/posts/pi-1-0/"/>
+    <id>https://earendil.com/posts/pi-1-0/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Hacker News thread on the release of Pi 1.0, with a related Pi Durable link. The snippet doesn't say what Pi is; it's probably a coding agent or harness.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Possibly agent tooling, but details unclear.&lt;/em&gt; · score 7/10 · Hacker News&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://earendil.com/posts/pi-durable/"&gt;Hacker News&lt;/a&gt; · &lt;a href="https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc"&gt;Latent Space&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>KCD2 | Crime Perception Volumes</title>
+    <link href="https://www.youtube.com/shorts/F8kVtt1JukQ"/>
+    <id>https://www.youtube.com/shorts/F8kVtt1JukQ</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>GDC</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i3.ytimg.com/vi/F8kVtt1JukQ/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;GDC Rewind highlighting a talk on supporting thousands of NPCs in Kingdom Come: Deliverance 1 and 2, including how crime perception is handled across LODs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Systemic NPC simulation at scale with LOD; strong design fit.&lt;/em&gt; · score 7/10 · GDC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I created an unified fluid simulation for my game.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wv9i5d/i_created_an_unified_fluid_simulation_for_my_game/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wv9i5d/i_created_an_unified_fluid_simulation_for_my_game/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bHFyN3oyYjF1d3NoMSjzgXfAIpGgrJTSeQ1qHbaQrzTQuBKgtpAy4iqgpDxr.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=516fc710ab101e53fdd11f40a021a57afef29aeb" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity dev shows a unified 2D fluid simulation on procedural terrain. It drives tire tracks, water, foam, fire, dust and smoke, with shared wind and a custom renderer.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deep Unity rendering and simulation on procedural terrain.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>And now I’ve added physics to the grass as well!</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wv3qed/and_now_ive_added_physics_to_the_grass_as_well/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wv3qed/and_now_ive_added_physics_to_the_grass_as_well/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/eTZ1YjVoZzBydnNoMfs_LO8p9nvk6RlzhGORFmMuUifxsr7ZOJ_359U89pda.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=687af5bd78844dae22563bb02ef8f276c927ab63" alt=""&gt;&lt;/p&gt;&lt;p&gt;Unity dev adds interactive grass using a compute shader with Verlet integration and spring physics, sharing the existing collision and wind system.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity compute shader technique, relevant to your rendering work.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[FREE] InspectMe: Free Advanced Tree-View Debugging &amp; Inspection Toolkit - Debug and explore without coding</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wvkzf9/free_inspectme_free_advanced_treeview_debugging/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wvkzf9/free_inspectme_free_advanced_treeview_debugging/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/Z29ia3FzZHJpenNoMc3IcMuFkeaYz70JgIEhUSp5VqXu4acpXkVk6BsE8n4X.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f2c1c8ee598bccddbe6e3133ace62e6d17f870ea" alt=""&gt;&lt;/p&gt;&lt;p&gt;Free Unity runtime inspector called InspectMe. It offers a tree view to edit values, invoke methods, and watch events and statics during play.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New free Unity debugging tool you could use.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The NPCs will now evacuate if an uncontained fire gets past a certain size. For now I…</title>
+    <link href="https://mastodon.gamedev.place/@vuntra_city/117366097220605061"/>
+    <id>https://mastodon.gamedev.place/@vuntra_city/117366097220605061</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Mastodon #procgen</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/366/094/679/084/608/small/3caf41b8e9b12df9.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Dev log on NPC fire-evacuation behavior: NPCs avoid the burning floor for two in-game hours, or the whole building if the fire is on the ground floor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Emergent NPC behavior in a systemic sim.&lt;/em&gt; · score 6/10 · Mastodon #procgen&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>DeepSeek Harness Desktop for macOS and Windows</title>
+    <link href="https://www.deepseek.com/en/harness/"/>
+    <id>https://www.deepseek.com/en/harness/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.deepseek.com/harness/images/deepseek-harness-social.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;DeepSeek releases a desktop Harness app for macOS and Windows, apparently an agent harness. The HN thread has 239 points.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agentic dev tooling, though details are thin.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Is sandboxing sufficient to contain rogue agents?</title>
+    <link href="https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"/>
+    <id>https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&amp;amp;ssl=1" alt=""&gt;&lt;/p&gt;&lt;p&gt;Lobsters discussion on whether sandboxing is enough to contain rogue AI agents.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent safety relevant to Claude Code use, but opinion-leaning.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Open-source model routing for coding agents at Astra-level performance</title>
+    <link href="https://news.ycombinator.com/item?id=49911500"/>
+    <id>https://news.ycombinator.com/item?id=49911500</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Open-source Weave Router sits in front of coding agents like Claude Code or Codex and switches between LLMs per task. It claims to beat any single model.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New open-source tool for Claude Code workflows.&lt;/em&gt; · score 6/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I Tried Making a Pen Plotter to Draw Maps of the Moon</title>
+    <link href="https://www.youtube.com/watch?v=qyNWDzO6kKQ"/>
+    <id>https://www.youtube.com/watch?v=qyNWDzO6kKQ</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Sebastian Lague</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i2.ytimg.com/vi/qyNWDzO6kKQ/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Sebastian Lague builds a pen plotter to draw Moon crater contour maps, ending with random-walk drawings.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural and terrain-adjacent maker video from a favorite type of creator.&lt;/em&gt; · score 6/10 · Sebastian Lague&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift</title>
+    <link href="https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/"/>
+    <id>https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Ars Technica Space</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Testing-Link-Thermal-Vacuum-Testing-2._3382x1892-500x500.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Ars Technica reports how NASA used Treasury funds and AI-assisted 'vibe coding' in an attempt to save the Swift observatory, which was not fully successful.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable space engineering story with a coding-agent angle.&lt;/em&gt; · score 6/10 · Ars Technica Space&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>AnvilCSG | Huge Update and Soon on the Asset Store</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wv0x1y/anvilcsg_huge_update_and_soon_on_the_asset_store/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wv0x1y/anvilcsg_huge_update_and_soon_on_the_asset_store/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/rqdiw8zd8vsh1.png?width=140&amp;amp;height=80&amp;amp;auto=webp&amp;amp;s=855f4f901abb6fdddcc5314257d29594153b1bbf" alt=""&gt;&lt;/p&gt;&lt;p&gt;AnvilCSG, a Unity level-building CSG tool, gets a big update with better optimization and merging, occlusion baking, reworked decals and cell fracture. It supports Unity 6.0 to 6.7 and is heading to the Asset Store.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity 6 editor tooling, with a level optimization angle.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Testing out some baked ragdolls for my enemies - convincing?</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wv8od9/testing_out_some_baked_ragdolls_for_my_enemies/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wv8od9/testing_out_some_baked_ragdolls_for_my_enemies/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/M2g2Yng2N3Bvd3NoMXDcARLi4-MOIwi7mSX1Zdz-17-14zyOEAyHhRZeLnTz.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a64483f72aa81eaa8d753575cf62ab9fbccc30ae" alt=""&gt;&lt;/p&gt;&lt;p&gt;Dev swaps real ragdolls for baked ragdoll animations past a threshold, nearly tripling framerate with 100+ enemies.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Unity performance technique.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I thought I was so clever to create this orrery in # Godot and have # GodotEngine do the…</title>
+    <link href="https://mastodon.gamedev.place/@thomastc/117370635336334868"/>
+    <id>https://mastodon.gamedev.place/@thomastc/117370635336334868</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/370/624/876/999/068/original/0fd8052962647813.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Godot dev built an orrery for sun and moon positions and is struggling to compute time until sunrise with rotation matrices.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Orbital-mechanics math, though in Godot and a casual post.&lt;/em&gt; · score 5/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>"We want people to try and outsmart the game": No Law aims for Arkane-style reactivity within a dangerous walled city</title>
+    <link href="https://www.rockpapershotgun.com/we-want-people-to-try-and-outsmart-the-game-no-law-aims-for-arkane-style-reactivity-within-a-dangerous-walled-city"/>
+    <id>https://www.rockpapershotgun.com/we-want-people-to-try-and-outsmart-the-game-no-law-aims-for-arkane-style-reactivity-within-a-dangerous-walled-city</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Rock Paper Shotgun</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://assetsio.gnwcdn.com/No-Law-kick.jpg?width=690&amp;amp;quality=85&amp;amp;format=jpg&amp;amp;auto=webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;RPS preview of No Law, an immersive sim set in a Kowloon-inspired walled city, aiming for Arkane-style reactivity.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Walled city setting and systemic reactivity, but an immersive sim.&lt;/em&gt; · score 5/10 · Rock Paper Shotgun&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Using Opus 5.5 to discover a new eyewitness record of the dodo</title>
+    <link href="https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness"/>
+    <id>https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Blog post describes using Claude Opus 5.5 to find a previously unknown eyewitness account of the dodo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Interesting practical LLM use case, though outside your domain.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Reducing the cognitive load of AI changes</title>
+    <link href="https://amoffat.github.io/blog/cognitive-load.html"/>
+    <id>https://amoffat.github.io/blog/cognitive-load.html</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Lobsters post on reducing the cognitive load of reviewing AI-generated code changes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Relevant to agentic coding workflows.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia</title>
+    <link href="https://github.com/Vibra-Ingenn/Janus"/>
+    <id>https://github.com/Vibra-Ingenn/Janus</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/5b7ab6ab39798b76219cc4f4d383b65131282d2cbaa7e9a3c02c92c8b32a1c56/Vibra-Ingenn/Janus" alt=""&gt;&lt;/p&gt;&lt;p&gt;Janus is a Go binary that runs GGUF models through Vulkan on AMD, Intel and Nvidia GPUs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New LLM tooling, though local inference isn't central to you.&lt;/em&gt; · score 5/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Rhun, an open-source code editor written in assembly</title>
+    <link href="https://rhun.app/"/>
+    <id>https://rhun.app/</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://rhun.app/img/card.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Rhun is an open-source code editor written in x86-64 assembly, with Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New dev tool with Claude Code integration.&lt;/em&gt; · score 5/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>pardeike/Harmony</title>
+    <link href="https://github.com/pardeike/Harmony"/>
+    <id>https://github.com/pardeike/Harmony</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/78002587/1c7e1e00-2297-4c08-8461-c8bd94358a48" alt=""&gt;&lt;/p&gt;&lt;p&gt;Harmony is a C# library for patching and decorating .NET and Mono methods at runtime. It's widely used in game modding, such as Rust and RimWorld.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Established C# tool that works with Unity and Mono.&lt;/em&gt; · score 5/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Academia is for Ambition — Alex Zhang, MIT</title>
+    <link href="https://www.latent.space/p/rlm"/>
+    <id>https://www.latent.space/p/rlm</id>
+    <updated>2026-10-02T10:24:34.119279+00:00</updated>
+    <author><name>Latent Space</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!iVu8!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218414422%2F29eff1ae-7f69-4af5-a42b-a64a66b90590%2Ftranscoded-1790900128.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Latent Space interview with MIT PhD Alex Zhang, first author of the RLM paper, on academia and the future of agent harnesses.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent harness discussion, but mostly an interview about career.&lt;/em&gt; · score 5/10 · Latent Space&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>IvanMurzak/Unity-MCP</title>
     <link href="https://github.com/IvanMurzak/Unity-MCP"/>
