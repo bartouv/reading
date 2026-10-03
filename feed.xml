@@ -4,7 +4,241 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-02T10:25:00.677501+00:00</updated>
+  <updated>2026-10-03T09:47:55.954051+00:00</updated>
+  <entry>
+    <title>Hex Map 5.6 - Create Climate Burst Job</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wvt191/hex_map_56_create_climate_burst_job/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wvt191/hex_map_56_create_climate_burst_job/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/RjXeisz51vywDug4bKNEwuxrWaE0y9wdTv8hVHYKWVU.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=67706571f90de46ca6fdf9da32066b3c4c0dfe72" alt=""&gt;&lt;/p&gt;&lt;p&gt;Catlike Coding tutorial converting a map-generation climate job into a real Burst job, adapting hex coordinates and grid code for Burst.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity Burst jobs applied to procedural map generation; directly relevant.&lt;/em&gt; · score 9/10 · r/Unity3D&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://mastodon.gamedev.place/@catlikecoding/117371431724055742"&gt;Mastodon #unity3d&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How My Terrain Shader Builds Up Every Pixel of My World from 14 Layers</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wvt6fd/how_my_terrain_shader_builds_up_every_pixel_of_my/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wvt6fd/how_my_terrain_shader_builds_up_every_pixel_of_my/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/fc2as8tqw1th1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cbea620959d72850c151733f5a3950a529a6fbd7" alt=""&gt;&lt;/p&gt;&lt;p&gt;Video breakdown of a terrain shader blending up to 14 layers using triplanar mapping, height blending, noise de-tiling, and weather/river/fog-of-war tints.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: In-depth Unity terrain shader craft for a procedural world.&lt;/em&gt; · score 8/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural Pixel Creatures: Generating bodies, rigs, and animations from code (Godot / C#)</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wvzchs/procedural_pixel_creatures_generating_bodies_rigs/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wvzchs/procedural_pixel_creatures_generating_bodies_rigs/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/Y29tdzV1bmY2M3RoMTyslFad2DEhkHoUW8msJB_UroGFoXOs0236kpSsjKhj.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ccff4a411d6c9edfffd4055e87515955e2a13a89" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Godot 4.5 C# generator for pixel creatures: bodies, rigs, animations and genetics, all deterministic from separate seed streams.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Seeded procedural generation in C# with deterministic design.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>MishMash</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wwcmek/mishmash/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wwcmek/mishmash/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cdAEF6AAOHYaTUvh1krmXVKdIdwhRAYJz4NGdQojelY.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=23e3a190a5339b49640465e4ba01dcb033bf57b0" alt=""&gt;&lt;/p&gt;&lt;p&gt;Voxel engine update adding multi-round heightmap erosion so rivers carve canyons whose walls follow steep-terrain rules.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Erosion and river terrain generation, core procgen interest.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>persisting dynamic water on seeded terrain without rewriting the seed</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wwe7ut/persisting_dynamic_water_on_seeded_terrain/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wwe7ut/persisting_dynamic_water_on_seeded_terrain/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;Question on saving dynamic water on seed-generated terrain: store only deltas against noise, and avoid lookups materializing the whole map.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Seeded world plus save-state design problem relevant to procgen and serialization.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Breadcrumb, record everything on your mac + context manager for AI</title>
+    <link href="https://innerloop.works/breadcrumb"/>
+    <id>https://innerloop.works/breadcrumb</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://innerloop.works/breadcrumb-card.png?v=3" alt=""&gt;&lt;/p&gt;&lt;p&gt;Local encrypted Mac recorder that stores screen, meetings and AI transcripts as searchable memory, exposed through 30+ MCP tools to Claude Code and others.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New MCP/Claude Code tooling, though privacy-heavy recording is debatable.&lt;/em&gt; · score 7/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The formula of shells</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1ww2uax/the_formula_of_shells/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1ww2uax/the_formula_of_shells/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/YXVmbXQwaDl2M3RoMeqePAYANTN9Gym8VrET03q5fpbKZj10Q49HG9h7HWB9.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=08a782a939e7c90cd87c24269d50aed228fedc58" alt=""&gt;&lt;/p&gt;&lt;p&gt;Video on the mathematics of shell shapes, usable to procedurally generate real or imaginary shells.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation math, loosely useful for generative toys.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural canyons made complete with procedural viaducts (C++/OpenGL/GLSL)</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1ww20ve/procedural_canyons_made_complete_with_procedural/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1ww20ve/procedural_canyons_made_complete_with_procedural/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MHJndmt5OWZwM3RoMbxBRrf0AU94xA5q7DSDp3TDFGgs3e-dRmaMm9_tCjgr.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=491e72e359e1a57243deb4aac10ac278e48b741e" alt=""&gt;&lt;/p&gt;&lt;p&gt;Showcase of procedurally generated canyons with procedural viaducts, built in C++/OpenGL/GLSL. No text description.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Terrain procgen showcase, though not Unity and light on detail.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Built a custom trigger-based 1-hop room culling system for my procedural mansion and 5x-ed my FPS</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wvxix0/built_a_custom_triggerbased_1hop_room_culling/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wvxix0/built_a_custom_triggerbased_1hop_room_culling/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/d2lleXltb2ZwMnRoMd_TRTkj26uNDBhNSNc2BEplYHyw7-PLpaC1E_ogQF-v.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6ff272a468a6d9688acb322fa93e61c94a3ccb2d" alt=""&gt;&lt;/p&gt;&lt;p&gt;Developer built a trigger-based one-hop room culling system for a procedural mansion, getting about 5x FPS where runtime-generated levels defeated Unity occlusion culling.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity performance and culling for procedurally generated levels.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A small tutorial on how I made the metaballs portal using a particle system and a custom shader (Shader Graph)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wwhnmh/a_small_tutorial_on_how_i_made_the_metaballs/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wwhnmh/a_small_tutorial_on_how_i_made_the_metaballs/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/dG8yang5dDhsN3RoMfJ_ZAI2vIkq6Tu6zfmHTjDMRpV3CFwxLKT6YeyU9SJ6.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d46f69f6cdc87de5de34ae696b4679f8ae438634" alt=""&gt;&lt;/p&gt;&lt;p&gt;Tutorial on a metaball portal effect using a particle system and a Shader Graph shader, also featured in the author's book.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity shader technique, though a visual effect and partly promotional.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>UniThumb - A free editor tool for scenes and prefab thumbnails</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1ww2l4h/unithumb_a_free_editor_tool_for_scenes_and_prefab/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1ww2l4h/unithumb_a_free_editor_tool_for_scenes_and_prefab/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/l0hcy96et3th1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f9e659cf156273da7c86ddf33d9fc58673b94550" alt=""&gt;&lt;/p&gt;&lt;p&gt;Free open-source Unity editor tool that generates scene and prefab thumbnails under URP, HDRP and 2D renderer.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Unity editor tool you could try.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>From the creator of Redis; run LLM locally with ds4</title>
+    <link href="https://dwarfstar.sh/"/>
+    <id>https://dwarfstar.sh/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://dwarfstar.sh/og-preview-v2.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Redis creator's ds4 project for running LLMs locally, with a site and active HN discussion.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New local LLM tooling from a notable developer.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The Four Horsemen of Agentic Coding</title>
+    <link href="https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding"/>
+    <id>https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Lobsters post titled 'The Four Horsemen of Agentic Coding', with no content shown beyond the title.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agentic coding workflow discussion, but content unknown.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Grow and control a swarm</title>
+    <link href="https://nohope.io"/>
+    <id>https://nohope.io</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;Lobsters link titled 'Grow and control a swarm', with no further detail. Likely a swarm or boids-style toy.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Possible swarm/boids simulation, but details are thin.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Pyxel – A Python retro game engine with built-in art and sound editors</title>
+    <link href="https://github.com/kitao/pyxel"/>
+    <id>https://github.com/kitao/pyxel</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/67db5be17fa5892a85d53a078833e6dbb9e771e6a89ea5bffbee0f8ba87107bc/kitao/pyxel" alt=""&gt;&lt;/p&gt;&lt;p&gt;Pyxel, an MIT-licensed Python retro game engine with built-in pixel art, tilemap and sound editors, implemented in Rust and running on web and desktop.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Game engine/tool launch, though retro 2D outside your Unity stack.&lt;/em&gt; · score 6/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>NVIDIA/SkillSpector</title>
+    <link href="https://github.com/NVIDIA/SkillSpector"/>
+    <id>https://github.com/NVIDIA/SkillSpector</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/89c97b4481455257018a05bc45c73cd4f51233ef766b46aa13ebddcd3ca1c2b4/NVIDIA/SkillSpector" alt=""&gt;&lt;/p&gt;&lt;p&gt;NVIDIA security scanner that checks AI agent skills for prompt injection, exfiltration and supply-chain risks before you install them in Claude Code, Codex or MCP.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Claude Code skills tooling you could use.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>thedotmack/claude-mem</title>
+    <link href="https://github.com/thedotmack/claude-mem"/>
+    <id>https://github.com/thedotmack/claude-mem</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba" alt=""&gt;&lt;/p&gt;&lt;p&gt;Plugin that captures agent session activity, compresses it with AI, and injects relevant context into later sessions for Claude Code and other agents.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Claude Code memory tooling, directly usable.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>It's been seven years... and Vilmonic 2 is finally here! Now with co-op MULTIPLAYER!…</title>
+    <link href="https://mastodon.gamedev.place/@bludgeonsoft/117375635760241404"/>
+    <id>https://mastodon.gamedev.place/@bludgeonsoft/117375635760241404</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/375/633/030/986/662/original/a9d05bce3c8f6b0b.mp4" alt=""&gt;&lt;/p&gt;&lt;p&gt;Release of Vilmonic 2, an artificial-life simulation, now with co-op multiplayer. It's free in the browser and on Steam after seven years.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Alife simulation game, close to your ecosystem toys.&lt;/em&gt; · score 5/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>No more universal Daily Deals on Steam - is that good?</title>
+    <link href="https://newsletter.gamediscover.co/p/no-more-universal-daily-deals-on"/>
+    <id>https://newsletter.gamediscover.co/p/no-more-universal-daily-deals-on</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>GameDiscoverCo</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!KStB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc597313f-325b-430a-a48d-2d1869e1d635_800x341.jpeg" alt=""&gt;&lt;/p&gt;&lt;p&gt;GameDiscoverCo newsletter on Steam ending universal Daily Deals, plus news and the week's top new releases.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Steam marketing data, though a deals-policy angle.&lt;/em&gt; · score 5/10 · GameDiscoverCo&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Made an open-source Lego AI generator</title>
+    <link href="https://github.com/anteloc/ldraw-nova"/>
+    <id>https://github.com/anteloc/ldraw-nova</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/8092779edcb602c0490fd9241e1c72a1af196e85254b929003dc52495b2087cd/anteloc/ldraw-nova" alt=""&gt;&lt;/p&gt;&lt;p&gt;Open-source tool that has Claude or ChatGPT write LDraw code to generate Lego models, with an account of the author's experiments.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Interesting LLM code-generation tool, though tangential to your work.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>One month coding with GLM 5.3 Flash</title>
+    <link href="https://wagtail.org/blog/one-month-on-glm-53-flash/"/>
+    <id>https://wagtail.org/blog/one-month-on-glm-53-flash/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://media.wagtail.org/images/agentsview_septembermodels_split.min-1200x630.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Wagtail team reports on a month of coding with the GLM 5.3 Flash model.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical coding-model experience report, but not Claude-focused.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A 12-year sequence of telescope images of a star and four planets orbiting</title>
+    <link href="https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f"/>
+    <id>https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://video.bsky.app/watch/did%3Aplc%3Awwbktud2d34ont3frkv73pjo/bafkreigrgiobnhj6rl64sejfafxzpaife6lahnriedl6uc6mox5ebppmym/thumbnail.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;A 12-year sequence of telescope images showing a star with four planets orbiting it, shared on Bluesky.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Striking orbital-mechanics visual, but a minor space item.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Giving Opus 5.5 a simulated paint canvas</title>
+    <link href="https://stillwet.art/"/>
+    <id>https://stillwet.art/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://stillwet.art/img/og-card.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Show HN project that gives Opus 5.5 a simulated paint canvas to paint on.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Creative Claude agent experiment; interesting but not practical.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>ruvnet/ruflo</title>
+    <link href="https://github.com/ruvnet/ruflo"/>
+    <id>https://github.com/ruvnet/ruflo</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db" alt=""&gt;&lt;/p&gt;&lt;p&gt;Agent harness for Claude Code and Codex offering multi-agent swarms, memory and workflow coordination.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent tooling, but swarm-framework hype is likely.&lt;/em&gt; · score 5/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>garrytan/gstack</title>
+    <link href="https://github.com/garrytan/gstack"/>
+    <id>https://github.com/garrytan/gstack</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/d08bbcd388ac09850291f6cd81ddc0c6389666887e842051b9de3e08de34a748/garrytan/gstack" alt=""&gt;&lt;/p&gt;&lt;p&gt;Garry Tan's Claude Code setup packaged as 23 role-based tools such as designer, QA and release manager.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Claude Code workflow setup, though opinionated and hype-leaning.&lt;/em&gt; · score 5/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Photosynthesis: A New Angle into Fermi’s Paradox?</title>
+    <link href="https://www.centauri-dreams.org/2026/10/02/photosynthesis-a-new-angle-into-fermis-paradox/"/>
+    <id>https://www.centauri-dreams.org/2026/10/02/photosynthesis-a-new-angle-into-fermis-paradox/</id>
+    <updated>2026-10-03T09:47:24.486037+00:00</updated>
+    <author><name>Centauri Dreams</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://www.centauri-dreams.org/wp-content/uploads/2026/10/Gilster-Fig09.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Centauri Dreams post on whether photosynthesis offers a new angle on the Fermi paradox.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Thoughtful astrobiology speculation; fits sci-fi interest but not core.&lt;/em&gt; · score 5/10 · Centauri Dreams&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Procedural Structures</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wvgunj/procedural_structures/"/>
