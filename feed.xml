@@ -4,7 +4,214 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-03T09:47:55.954051+00:00</updated>
+  <updated>2026-10-04T10:30:03.627391+00:00</updated>
+  <entry>
+    <title>From Space to the Surface of a Procedural Planet Shaped by Plate Tectonics</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wwnogh/from_space_to_the_surface_of_a_procedural_planet/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wwnogh/from_space_to_the_surface_of_a_procedural_planet/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cXA3dzBqNnU5OXRoMaPtGzfo9P_tcvR8qLr9tezkwYbauCEonWjy4aq4v1VL.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c439ec86fb108c500f050349e989d7f58284609c" alt=""&gt;&lt;/p&gt;&lt;p&gt;Video of a procedural plate-tectonics planet project (TropoPlate) showing a seamless transition from orbit through the atmosphere to high-resolution terrain.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural planet terrain and tectonics; relevant to space tycoon and terraforming.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Topographic map generator</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wx8grv/topographic_map_generator/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wx8grv/topographic_map_generator/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/hnoinl9z6eth1.png?width=140&amp;amp;height=76&amp;amp;auto=webp&amp;amp;s=c1e1060dc614a9af772a23bfb38c8d393d23b7d7" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity WebGL tool that procedurally generates topographic map textures in multiple art styles, built for a roguelike's level-select screen.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural map generation in Unity for a roguelike, close to ink-parchment maps.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Ink Fauna: procedural creatures painted live in sumi-e ink</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wwu92a/ink_fauna_procedural_creatures_painted_live_in/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wwu92a/ink_fauna_procedural_creatures_painted_live_in/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MHFvdWl6dDNvYXRoMfme2P7qkM9cAzHOm5OPweanvwDe_GFtLVsJfdlp7Gwa.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fb72388b153e0fe58fa807d7bf734caa70af896b" alt=""&gt;&lt;/p&gt;&lt;p&gt;Free web toy that paints procedural animal creatures in live sumi-e ink strokes, written in TypeScript and Canvas 2D with no bitmaps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural ink-style rendering and creature animation, like your ink-on-parchment look.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I made my behavior tree tool free</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wwnhry/i_made_my_behavior_tree_tool_free/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wwnhry/i_made_my_behavior_tree_tool_free/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/NTR6MXc0Zmg5OXRoMVF96WIaDW5wD8oBqA84NM52pr8-eRm994mHfZ8sReW3.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=259c2b48a0b2832f09c66654330d7708d62d976a" alt=""&gt;&lt;/p&gt;&lt;p&gt;Developer makes his Unity behavior tree tool BH3 free after weak asset store sales. It includes a debugger that records everything the tree does.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New free Unity tool with AI debugging, useful for simulation and management games.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Hole Punch: Sling your spaceship around gravitational fields</title>
+    <link href="https://notoriousbfg.com/hole-punch/"/>
+    <id>https://notoriousbfg.com/hole-punch/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Space"/>
+    <content type="html">&lt;p&gt;Hacker News link to Hole Punch, a game about slinging a spaceship around gravitational fields.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Gravity-assist orbital mechanics game, relevant to your space tycoon.&lt;/em&gt; · score 7/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>humanlayer/skills</title>
+    <link href="https://github.com/humanlayer/skills"/>
+    <id>https://github.com/humanlayer/skills</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/2bb8549bcb512638e9c4235fdffd122ae3d8d9bbd011ab33354f5a7c2e955591/humanlayer/skills" alt=""&gt;&lt;/p&gt;&lt;p&gt;HumanLayer's collection of Claude Code skills, installable via npx. It includes show-me for diagrams and visual-pr for pull request outlines.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Claude Code skills you could install and try.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>getsentry/toolkit</title>
+    <link href="https://github.com/getsentry/toolkit"/>
+    <id>https://github.com/getsentry/toolkit</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/37f97301300238a9674a7929e30ec6344dead3abe2a79530b0282315c312f0eb/getsentry/toolkit" alt=""&gt;&lt;/p&gt;&lt;p&gt;Sentry's agentic tooling repo, including an MCP server built for coding agents like Claude Code and Cursor to debug with Sentry data.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: MCP tooling for Claude Code, though Sentry is moderately relevant.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I made a game where everything is procedural, even the cows. Here's the trailer for PROJECT: ABSOLUTELY NORMAL™</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wwnkkl/i_made_a_game_where_everything_is_procedural_even/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wwnkkl/i_made_a_game_where_everything_is_procedural_even/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bDA3Z3lkczI4OXRoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0c9cabe524cebba4a2b48d358d246ae497ef6f17" alt=""&gt;&lt;/p&gt;&lt;p&gt;Trailer for a game where the terrain, towns, people, cows, sound and music are all generated from one seed with no asset files. It has 28 drivable vehicles and 10 careers.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Fully procedural generation from a seed, a technique you care about.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I added water Volume Geometry Support in Unity 6 URP</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wwqyng/i_added_water_volume_geometry_support_in_unity_6/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wwqyng/i_added_water_volume_geometry_support_in_unity_6/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bzJ0em82ZGQwYXRoMZS2U8lCqXN-aLx7zgnk0mHXI2KO37CsevVQsvgwVHAD.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=28906e6334b5a199217b32510f9b86d606ec1cce" alt=""&gt;&lt;/p&gt;&lt;p&gt;Developer added water volume geometry support to Unity 6 URP after 150+ hours. It syncs render order, volumetric lighting and fog for underwater areas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: In-depth Unity 6 URP rendering work, directly relevant to your blog topics.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>From Catlike Coding’s hex map to wind-driven naval battles - my Unity game Golden Carrack</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wwwej9/from_catlike_codings_hex_map_to_winddriven_naval/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wwwej9/from_catlike_codings_hex_map_to_winddriven_naval/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/dm1nYnF1bnE0YnRoMSe3sJKUuQGdA75YKfhrN47ohBbDZY_al84XpL5X_H6e.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=176498e73d291846c67467b2e3c62ba2efeb0009" alt=""&gt;&lt;/p&gt;&lt;p&gt;Turn-based trading and naval strategy game in Unity, built from Catlike Coding's hex map. It has production chains, AI captains and wind-driven battles.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity trading and strategy sim with production chains and economy.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Agents don't need memory, they need documentation</title>
+    <link href="https://liao.gg/blog/agents-dont-need-memory"/>
+    <id>https://liao.gg/blog/agents-dont-need-memory</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Blog post arguing that coding agents work better with good documentation than with memory systems. The HN thread has 97 comments.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical agent workflow discussion relevant to Claude Code use.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Offrun – manage every coding agent from one workspace</title>
+    <link href="https://offrun.dev/"/>
+    <id>https://offrun.dev/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://offrun.dev/assets/og-card.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Show HN for Offrun, a workspace for running Claude Code, Codex and other coding agents side by side and tracking their status and account limits.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New multi-agent tooling that includes Claude Code.&lt;/em&gt; · score 6/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server</title>
+    <link href="https://pipod.dev/"/>
+    <id>https://pipod.dev/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Show HN for Pi pod, which runs the pi coding agent in isolated sandboxes on your own server. The author wants a provider-agnostic, customizable harness.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New self-hosted agent sandbox tooling, relevant to agentic dev workflows.&lt;/em&gt; · score 6/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>modelcontextprotocol/python-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/python-sdk"/>
+    <id>https://github.com/modelcontextprotocol/python-sdk</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/ef987f9d923236df02324b8af9aaec1eedb0a6487b2d4d2f44ac791466d1f335/modelcontextprotocol/python-sdk" alt=""&gt;&lt;/p&gt;&lt;p&gt;Official Python SDK for building Model Context Protocol servers and clients, with a v2 and a migration guide.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Core MCP library you could use to build tools.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>pingdotgg/t3code</title>
+    <link href="https://github.com/pingdotgg/t3code"/>
+    <id>https://github.com/pingdotgg/t3code</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/2aa87ce8566b3bed4e9adbcc7f6395ea1673f34508d8cc9c24ea09a88313bc34/pingdotgg/t3code" alt=""&gt;&lt;/p&gt;&lt;p&gt;T3 Code is a control surface for coding agents on your machine, with mobile, web and desktop apps. It works with Claude Code, Codex, Cursor and others.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent harness tooling that works with your Claude Code subscription.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>earendil-works/pi</title>
+    <link href="https://github.com/earendil-works/pi"/>
+    <id>https://github.com/earendil-works/pi</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/369f5204fe3360405fcb5508854e6cd585e2f49689355b8c115221c14f09edff/earendil-works/pi" alt=""&gt;&lt;/p&gt;&lt;p&gt;Pi is a minimal, extensible agent harness with a unified LLM API, agent loop, TUI and coding agent CLI. It supports extensions, skills and prompt templates.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Customizable coding agent toolkit, relevant to agent tooling interests.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>minghinmatthewlam/pi-gui</title>
+    <link href="https://github.com/minghinmatthewlam/pi-gui"/>
+    <id>https://github.com/minghinmatthewlam/pi-gui</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/c8e95d27acaf774899b7f6fa0ea51983aca1e1a70f3620451057853d76b386e6/minghinmatthewlam/pi-gui" alt=""&gt;&lt;/p&gt;&lt;p&gt;Electron desktop GUI for the pi coding agent that runs parallel sessions, each optionally in its own git worktree, with change review and a terminal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent GUI with git worktree workflows, though it is a wrapper.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The Agent Said It Was Done. The Database Disagreed.</title>
+    <link href="https://huggingface.co/blog/microsoft/thinkingbox"/>
+    <id>https://huggingface.co/blog/microsoft/thinkingbox</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>Hugging Face</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/NStwJm1AafDELVsU4KGwS.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Hugging Face post about an agent that claimed it had finished a task while the database state showed otherwise. The snippet is empty, so the details are unclear.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Likely about verifying agent output, but the content is unknown.&lt;/em&gt; · score 6/10 · Hugging Face&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Dynamic planet shaders reacting to narrative events &amp; state (glitch textures, memory wipe &amp; code rain)</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wwsb48/dynamic_planet_shaders_reacting_to_narrative/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wwsb48/dynamic_planet_shaders_reacting_to_narrative/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZnZ1ZHh3NGphYXRoMRtWzZX14VYBNdX48Jt4jbsR3Qjeyk1yLb5OtXs2O60Z.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bcfa5ca7442e811314f6441bf24413794b2db2dd" alt=""&gt;&lt;/p&gt;&lt;p&gt;Dev shows procedural planet shaders in the game Splatchinko that react to narrative state, with glitch, memory-wipe and code-rain effects built from stepped noise and masks.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural shaders tied to narrative state, interesting for systemic design.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural Space Squid</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wwko84/procedural_space_squid/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wwko84/procedural_space_squid/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/ZjM1ODJ0aGxqOHRoMRGrXk3xbI18YiT45kDRGQ5Z0gBckBUnoUnbphwA3cPj.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cf7a1250d6578fb8bb1dfaf34b0a61d05ea1eccf" alt=""&gt;&lt;/p&gt;&lt;p&gt;Unity developer shows a procedural space squid animated without an Animator on a character controller.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural animation in Unity, near your boids and creature work.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New Edge + Strip Decal creation tool about to drop! Amplify Decals</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wwu7na/new_edge_strip_decal_creation_tool_about_to_drop/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wwu7na/new_edge_strip_decal_creation_tool_about_to_drop/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/eWxtcWxiNnluYXRoMatnWCwnWHaYU61uFRPqWig1LqjXE-4X0dHNzUGxZ_Rb.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c9c6c8ce51cb7bd9927dff32099f62acb916aa28" alt=""&gt;&lt;/p&gt;&lt;p&gt;Announcement of Amplify Decals, a spline-based non-destructive edge and strip decal tool for Unity that works with custom shaders.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity editor tool, but decals are a niche for your projects.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>We're going to need default hard budget caps on pretty much everything</title>
+    <link href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"/>
+    <id>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Simon Willison argues that cloud and AI services need default hard budget caps. The HN thread has over 200 comments.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Tangentially useful for agent costs, but mostly opinion.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Allan Kaster’s “The Year’s Top Science Fiction” Table of Contents</title>
+    <link href="https://file770.com/allan-kasters-the-years-top-science-fiction-table-of-contents/"/>
+    <id>https://file770.com/allan-kasters-the-years-top-science-fiction-table-of-contents/</id>
+    <updated>2026-10-04T10:29:36.684178+00:00</updated>
+    <author><name>File 770</name></author>
+    <category term="Books"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://file770.com/wp-content/uploads/The-Years-Top-Science-Fiction-cover.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Table of contents for Allan Kaster's new anthology The Year's Top Science Fiction, releasing October 16 and collecting the best 2025 SF stories and novellas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Science fiction anthology, a mild fit for your reading.&lt;/em&gt; · score 5/10 · File 770&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Hex Map 5.6 - Create Climate Burst Job</title>
     <link href="https://www.reddit.com/r/Unity3D/comments/1wvt191/hex_map_56_create_climate_burst_job/"/>
