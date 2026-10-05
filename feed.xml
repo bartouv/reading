@@ -4,7 +4,160 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-04T10:30:03.627391+00:00</updated>
+  <updated>2026-10-05T11:18:46.585733+00:00</updated>
+  <entry>
+    <title>The animal trails in our generated forests are grown by a slime-mould simulation</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wxlvrq/the_animal_trails_in_our_generated_forests_are/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wxlvrq/the_animal_trails_in_our_generated_forests_are/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/q4hsaypanhth1.jpg?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=3b6a23346f0d7a9b6419d5405e921a229d22a470" alt=""&gt;&lt;/p&gt;&lt;p&gt;An orienteering game grows animal trails in procedurally generated forests using a slime-mould (Physarum) model. The generator picks destinations like water, saddles and grazing spots, and the slime mould connects them.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation with emergent systems; directly applicable to city/map generation.&lt;/em&gt; · score 9/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Open-source library for boolean operations on meshes</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wxswr3/opensource_library_for_boolean_operations_on/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wxswr3/opensource_library_for_boolean_operations_on/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/anIwNDdnb3Y0anRoMSxkE4LFJptd75qPoUxat3NlEOtdsWUl0zqeN_5LD6kZ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f680c7a7596f35113ad5046d5d8c7d150ead7456" alt=""&gt;&lt;/p&gt;&lt;p&gt;Open-source Unity library for boolean (CSG) operations on meshes, built on the Manifold library, with a demo video.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Unity tool usable for procedural mesh work.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I've been working on my own Raymarching Voxel Engine for Unity</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wxm1kf/ive_been_working_on_my_own_raymarching_voxel/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wxm1kf/ive_been_working_on_my_own_raymarching_voxel/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bWU1dndhdmNvaHRoMYRGDBqLUmKoZ7W0K0TKQ4Ngvt0RVTkW4p-Vza4g0Zyo.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8724e20ddcd3cda87dc5e43f2bf73318484fdb5c" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer shares a from-scratch raymarching voxel engine for Unity aimed at large procedural worlds with control over rendering.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity rendering and procedural worlds, though early-stage showcase.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Reverse Engineering Comanche Terrain Maps</title>
+    <link href="https://pikuma.com/blog/comanche-maps-reverse-engineering"/>
+    <id>https://pikuma.com/blog/comanche-maps-reverse-engineering</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://pikuma.com/images/blog/comanche-maps-reverse-engineering/thumbnail-1200x630.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;A write-up on reverse engineering the terrain maps (heightmap/colour data) of the 1992 game Comanche's voxel-space engine.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Terrain and rendering technique, good graphics-programming craft.&lt;/em&gt; · score 7/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>FitzHugh Oscillator Field</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wxdunh/fitzhugh_oscillator_field/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wxdunh/fitzhugh_oscillator_field/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/b6t2fu1ivfth1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=20ea4f3b5026a2133751afa5c2ff6729c3f47698" alt=""&gt;&lt;/p&gt;&lt;p&gt;A FitzHugh-Nagumo oscillator field simulation where random initial states unexpectedly form stable paired nodes and complex patterns instead of synchronizing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Emergent pattern simulation, close to procedural generation interests.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>To test my new SRP I tried making a diorama of a hangar scene...</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wxutcw/to_test_my_new_srp_i_tried_making_a_diorama_of_a/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wxutcw/to_test_my_new_srp_i_tried_making_a_diorama_of_a/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bDJ3MHg3MGRranRoMewE7ZpKMvztJKDIDG3AoiKaw_747klw7P3nY7vz9QA9.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2685145c12252e719abd1659d1ea3ab1b2dba5dc" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer tests a custom scriptable render pipeline with a voxel hangar diorama, with arbitrary-rotation, multi-size voxels and brute-forced specular highlights; performance numbers given.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Custom Unity SRP and rendering performance detail.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Double-Headed Stack Allocator Reduces Memory Overhead in Game Development https://…</title>
+    <link href="https://mastodon.gamedev.place/@FronkonGames/117387997427955502"/>
+    <id>https://mastodon.gamedev.place/@FronkonGames/117387997427955502</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;A blog post on a double-headed stack allocator, which allocates from both ends of one buffer to cut memory overhead in games.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Game performance programming craft, outside Unity but useful.&lt;/em&gt; · score 6/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>tester-army/e2e</title>
+    <link href="https://github.com/tester-army/e2e"/>
+    <id>https://github.com/tester-army/e2e</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/1308631234/358e34a0-4e46-4400-b092-63a397fe9d48" alt=""&gt;&lt;/p&gt;&lt;p&gt;A TypeScript e2e testing framework where an agent pursues natural-language goals in web and mobile apps, with normal locators and assertions to check results.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent-driven tooling in TypeScript, though web-testing focused.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural crossing of different animals</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wxs0v9/procedural_crossing_of_different_animals/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wxs0v9/procedural_crossing_of_different_animals/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/rxslm9nowith1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=951fd388936908a9c6ee58c365dcdd7e6192cc3a" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer experiments with procedurally combining parts of different animal meshes (pig, gorilla, hippo, cow) in low poly, inspired by Spore.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation of creatures; relevant but a modest demo.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Working on procedural spider animation for my ant colony RTS 🕷️🐜</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wy40jr/working_on_procedural_spider_animation_for_my_ant/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wy40jr/working_on_procedural_spider_animation_for_my_ant/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/u4kx1uvf9mth1.gif?width=640&amp;amp;crop=smart&amp;amp;s=47f89f7c23941d9433f3cde0bac894491b1c7b97" alt=""&gt;&lt;/p&gt;&lt;p&gt;A biologist shows procedural leg animation for a jumping spider in Garden of Ants, an ant colony management RTS.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Colony-management sim with procedural animation.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Tsuji - Fabrik IK implementation</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wxmlgd/tsuji_fabrik_ik_implementation/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wxmlgd/tsuji_fabrik_ik_implementation/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/fW8PxZoHzdPVB3hFeEtwx9UF_BIitN0s5FzNEq0-HBo.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1aea5c8a66e9a5a01afd74296b033da61f385e1a" alt=""&gt;&lt;/p&gt;&lt;p&gt;A short demo of a simple procedural animation system for creatures with two or more legs, using FABRIK inverse kinematics.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural animation technique, minimal detail.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Volumetric Cloud in URP</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wxo0e8/volumetric_cloud_in_urp/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wxo0e8/volumetric_cloud_in_urp/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bGMyY3hvMDAzaXRoMabq-DIBP--ndGBCK3btf3fpbhz2lbwPG53nGXxNn2Av.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9c2dbc39f0e4f88ee069e77214208e68a4e0c5e8" alt=""&gt;&lt;/p&gt;&lt;p&gt;A clip of volumetric clouds running in Unity URP, with no description.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity rendering visual, but no technical detail given.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Algorama 04 - Cactus - Getting used to my procedural generation daily challenge.</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wxiths/algorama_04_cactus_getting_used_to_my_procedural/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wxiths/algorama_04_cactus_getting_used_to_my_procedural/</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cGU0cWZ6NW96Z3RoMS5jP9G6ppuofvihfOndoLXlVXaYIqfSye5-K3Xyuejh.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b7f727eaab033cad8217de443b4e613495706a54" alt=""&gt;&lt;/p&gt;&lt;p&gt;Day 4 of a daily procedural generation challenge in Unity, producing a cactus scene on a larger random map.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation in Unity, but light on substance.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</title>
+    <link href="https://github.com/Niko1221/Strata"/>
+    <id>https://github.com/Niko1221/Strata</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/f661a234af341587a200f08c7cd8344531004beae73a9dd4bb08d8f61efadb7d/Niko1221/Strata" alt=""&gt;&lt;/p&gt;&lt;p&gt;A GitHub project claims to run a 125B-parameter Qwen model at 100 tokens/s on a single RTX 4090. It is a high-scoring HN post.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Local LLM tooling of some interest, but not agent-focused.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Claude Says</title>
+    <link href="https://ohhfishal.net/Posts/claude"/>
+    <id>https://ohhfishal.net/Posts/claude</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://ohhfishal.net/Posts/claude-og-image.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Lobsters post titled 'Claude Says' with no description available.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Claude-related, but content unclear.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Implementing Undo</title>
+    <link href="https://www.youtube.com/watch?v=S6PqsZ65Mg4"/>
+    <id>https://www.youtube.com/watch?v=S6PqsZ65Mg4</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;A Lobsters article on how to implement undo in software.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Useful architecture topic for editor tooling and game tools.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>earthtojake/text-to-cad</title>
+    <link href="https://github.com/earthtojake/text-to-cad"/>
+    <id>https://github.com/earthtojake/text-to-cad</id>
+    <updated>2026-10-05T11:18:23.765994+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/385a53e4609e4693b184c3c5ac6baa9cf7166ef334f6f6fd3148d2669c973377/earthtojake/text-to-cad" alt=""&gt;&lt;/p&gt;&lt;p&gt;A plugin that lets coding agents, including Claude Code, generate 3D models as STEP, GLB, STL or 3MF. It also does manufacturing checks and engineering drawings.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Claude Code skill/plugin tooling; possibly usable for 3D assets.&lt;/em&gt; · score 5/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>From Space to the Surface of a Procedural Planet Shaped by Plate Tectonics</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wwnogh/from_space_to_the_surface_of_a_procedural_planet/"/>
