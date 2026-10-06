@@ -4,7 +4,124 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-05T11:18:46.585733+00:00</updated>
+  <updated>2026-10-06T11:08:46.842816+00:00</updated>
+  <entry>
+    <title>I built an engine that turns a text prompt into a full building – rooms, stairs, furniture, colliders – and exports it to GLB/FBX</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wyjk74/i_built_an_engine_that_turns_a_text_prompt_into_a/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wyjk74/i_built_an_engine_that_turns_a_text_prompt_into_a/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/NjJ1emdrNDVtcHRoMa_wZ6LsYfhJ6uoLacuIAazYsonKidMq-yUdaD2KrU9m.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2fbdab8fc8171671e9829175893dee6925637b64" alt=""&gt;&lt;/p&gt;&lt;p&gt;WeaverProcedura is a procedural architecture engine where a small trained model turns a text prompt into a node recipe. The engine builds floor plans, walls with openings, stairs, furniture, roofs and colliders, and exports to GLB/FBX.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural building generation with exports usable in Unity; new tool.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>VictorTaelin/OptMem</title>
+    <link href="https://github.com/VictorTaelin/OptMem"/>
+    <id>https://github.com/VictorTaelin/OptMem</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/c6aa38f9534601f6328e9510c15643d302a54078caf4f60bab40ba87b4d9e28b/VictorTaelin/OptMem" alt=""&gt;&lt;/p&gt;&lt;p&gt;OptMem is a script plus a 426-token prompt that gives AI agents persistent memory. Its installer prints a Memory block to paste into AGENTS.md or CLAUDE.md.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Claude Code-compatible agent memory tool you could install today.&lt;/em&gt; · score 7/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>tashfeenahmed/freellmapi</title>
+    <link href="https://github.com/tashfeenahmed/freellmapi"/>
+    <id>https://github.com/tashfeenahmed/freellmapi</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/232dcbc36779f73a7df41ab1b9e7e5e6b4bbe8d6147dff640922627d1d5e7888/tashfeenahmed/freellmapi" alt=""&gt;&lt;/p&gt;&lt;p&gt;FreeLLMAPI aggregates free tiers from 34 LLM providers behind one OpenAI-compatible endpoint, with routing, failover and encrypted keys. It is meant for personal experimentation.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New LLM tooling that could be useful, though free-tier hacks are limited.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Bethesda’s Most Ambitious RPG Nearly Collapsed the Entire Studio in the ’90s</title>
+    <link href="https://80.lv/articles/bethesda-s-most-ambitious-rpg-nearly-collapsed-the-entire-studio-in-the-90s/"/>
+    <id>https://80.lv/articles/bethesda-s-most-ambitious-rpg-nearly-collapsed-the-entire-studio-in-the-90s/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>80 Level</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.80.lv/api/upload/post/41857/images/6ac4156e21d46/cover_800x800.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;A retrospective on how Bethesda's Daggerfall team nearly collapsed under crunch, primitive tools and tight deadlines. The game had 15,000 procedurally generated locations.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation postmortem history; somewhat dated but relevant.&lt;/em&gt; · score 6/10 · 80 Level&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>From hex-shaped clouds to rain and snow: the weather system I built in Unity</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wyb21p/from_hexshaped_clouds_to_rain_and_snow_the/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wyb21p/from_hexshaped_clouds_to_rain_and_snow_the/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bHVtY3pueG96bnRoMdU9M2UApqse7GRhhTSGes7POlCXpnq0i0khKR03pqVJ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9266e8f74db394e8131e1aeb66e7995e1b09bd1d" alt=""&gt;&lt;/p&gt;&lt;p&gt;A solo Unity developer shows the weather system for a tactical RPG, from hex-shaped clouds to noise shading, rain and snow rendering.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity rendering and noise-based procedural weather, directly relevant craft.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I'm working on adding large-scale structure to my procedural terrain based on…</title>
+    <link href="https://mastodon.gamedev.place/@runevision/117388896999650920"/>
+    <id>https://mastodon.gamedev.place/@runevision/117388896999650920</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>Mastodon #procgen</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/388/896/663/539/100/small/e0ba3edaf296a0e6.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer is adding large-scale structure to procedural terrain using Voronoi-like cells, tested with flat cells at three heights. It aims to give level-design control that plain noise lacks.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural terrain technique that fits your generation work.&lt;/em&gt; · score 6/10 · Mastodon #procgen&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Quoting Felix Rieseberg</title>
+    <link href="https://simonwillison.net/2026/Oct/5/felix-rieseberg/"/>
+    <id>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Felix Rieseberg explains that the old Claude Cowork ran inference in the cloud with tool calls in a local Anthropic VM. He says users disliked the VM's resource cost and that work stopped when the laptop closed, which the new version addresses.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Claude agent architecture details from Anthropic, relevant to agentic tooling.&lt;/em&gt; · score 6/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Why it's still worth making immersive sims ft. Harvey Smith &amp; Ben Horne</title>
+    <link href="https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne"/>
+    <id>https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>Game Developer</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf809fa9a4d29be70/6ac3c90b1d3e91653ff431b8/blackponyharveyben_(1).png?width=720&amp;amp;quality=80&amp;amp;disable=upscale" alt=""&gt;&lt;/p&gt;&lt;p&gt;Harvey Smith and Ben Horne discuss why immersive sims are still worth making and describe their new studio, Black Pony Immersive.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Systemic game design talk, though mostly studio vision.&lt;/em&gt; · score 5/10 · Game Developer&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Is it possible to generate an environment for/in Unity based just on a layout map?</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wysxmr/is_it_possible_to_generate_an_environment_forin/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wysxmr/is_it_possible_to_generate_an_environment_forin/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;A Unity user asks whether any tool can generate a simple 3D environment from a house or office layout map.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Loosely related to procedural generation, but a beginner question.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>What's a good way to randomly generate sections without them feeling... box-y?</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wydf99/whats_a_good_way_to_randomly_generate_sections/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wydf99/whats_a_good_way_to_randomly_generate_sections/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bWZ1ZnZ0Z2Fnb3RoMfIxCRN8sORCF5o0NFeuvgvGg1wBOlCpBC8hoHwguy_A.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=75e359c102461673d9b7abe5e8415faf37745bfb" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity user asks how to randomly generate sections without them feeling boxy. There is no body text.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation topic, but a thin beginner-style question.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</title>
+    <link href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"/>
+    <id>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Vals AI reports that Opus 5.5 agents found two candidate room-temperature magnetic semiconductors. The post drew a lot of discussion on Hacker News.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable agent capability result with technical substance; Claude-related.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Web Search API</title>
+    <link href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"/>
+    <id>https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/og.png?v=1deaa8fb09156b56" alt=""&gt;&lt;/p&gt;&lt;p&gt;Cloudflare's changelog announces a Web Search API. The snippet gives no further details.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Possible useful agent tool for web search, details unclear.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Qwen3.8 27B addition in words</title>
+    <link href="https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/"/>
+    <id>https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/</id>
+    <updated>2026-10-06T11:08:21.466840+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/colin-frasier-grid.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Simon Willison reruns an experiment testing how well Qwen3.8 27B adds numbers and returns the answer in words, running locally on a DGX Spark. It repeats an earlier GPT-4o test.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Hands-on local LLM experiment from a source you like.&lt;/em&gt; · score 5/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>The animal trails in our generated forests are grown by a slime-mould simulation</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wxlvrq/the_animal_trails_in_our_generated_forests_are/"/>
