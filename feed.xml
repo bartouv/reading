@@ -4,7 +4,277 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-06T11:08:46.842816+00:00</updated>
+  <updated>2026-10-07T10:58:42.942668+00:00</updated>
+  <entry>
+    <title>Unity 7.0 Alpha - featuring the CoreCLR Editor - is now available</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wzjinx/unity_70_alpha_featuring_the_coreclr_editor_is/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wzjinx/unity_70_alpha_featuring_the_coreclr_editor_is/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;Unity announces an alpha of Unity 7.0 featuring an Editor running on CoreCLR instead of Mono.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Major Unity engineering change affecting C# runtime and performance.&lt;/em&gt; · score 9/10 · r/Unity3D&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://mastodon.gamedev.place/@GameFromScratch/117394928150942243"&gt;Mastodon #unity3d&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Large-scale Voronoi-esque cells to drive my procedural mountain forest</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wz2oe8/largescale_voronoiesque_cells_to_drive_my/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wz2oe8/largescale_voronoiesque_cells_to_drive_my/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/Z29jMGJ6cnFsdXRoMfRS5aqGd7oaB59P0UCNcBOKzTEfX7c6qsjIzFDKACXd.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba734000f3921452553cbd1b9fa0b2f510ebd0d7" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev shows large-scale Voronoi-like cells driving terrain structure, enabling placed lakes, rivers, walls and cliffs beyond plain noise.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural terrain generation with level-design control, directly relevant.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A field guide to 17 Lenia creatures from an overnight novelty search — every plate runs live in your browser</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wzsd9k/a_field_guide_to_17_lenia_creatures_from_an/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wzsd9k/a_field_guide_to_17_lenia_creatures_from_an/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;Claude was given spare credits and built a Lenia reimplementation, ran a 41,712-ruleset novelty search, and published 17 creatures as a live in-browser field guide.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Emergent artificial life made by Claude; procedural and agentic crossover.&lt;/em&gt; · score 8/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>One generator, a new seed every frame: the procedural hulls of my space shooter (39 body plans, 3 factions)</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wz43wz/one_generator_a_new_seed_every_frame_the/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wz43wz/one_generator_a_new_seed_every_frame_the/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/nx0z54duxuth1.png?width=140&amp;amp;height=36&amp;amp;auto=webp&amp;amp;s=20807aafc80951b1dcef676c3430ec056f41d9f4" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity space shooter's ship hulls come from an offline Python/NumPy generator with 39 body plans and seeded output across three factions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation in a Unity space game, with technical detail.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Finally connected all my custom Unity rendering systems Virtual Geometry + Hybrid Ray Traced Sparse Voxel World-Space GI + GPU-Driven Ray Marched Lights</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wz8qiy/finally_connected_all_my_custom_unity_rendering/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wz8qiy/finally_connected_all_my_custom_unity_rendering/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/w2e3tjygtvth1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7def9b59e37ebb3487bcdf80ca8c00aea88d07f5" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer combines custom virtual geometry, hybrid ray-traced sparse voxel GI and GPU-driven ray-marched lights in Unity HDRP.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deep Unity rendering engineering, matching your shader and rendering interests.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Claude Code’s suggested message feature: I think the real customer is the model</title>
+    <link href="https://www.zohaib.cc/blog/smartest-claude-code-feature"/>
+    <id>https://www.zohaib.cc/blog/smartest-claude-code-feature</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;A blog post argues Claude Code's suggested-message feature is mainly designed to benefit the model rather than the user. It drew 207 HN points.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Claude Code design insight, relevant to your agentic tooling interest.&lt;/em&gt; · score 7/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>backnotprop/plannotator</title>
+    <link href="https://github.com/backnotprop/plannotator"/>
+    <id>https://github.com/backnotprop/plannotator</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/fbf4542ab7c4d348513a925521d35466d31998f3b92817fe8426e4331450c9f3/backnotprop/plannotator" alt=""&gt;&lt;/p&gt;&lt;p&gt;Plannotator is an open-source tool for visually annotating coding agent plans and diffs and sending feedback back to agents in one click.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent-workflow tool you could use with Claude Code.&lt;/em&gt; · score 7/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>llm-openai-decisions 0.1a0</title>
+    <link href="https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"/>
+    <id>https://simonwillison.net/2026/Oct/6/llm-openai-decisions/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Simon Willison released an LLM plugin for OpenAI's new Decisions API, built with GPT-6 and modeled on his llm-typesafe plugin. It notes image input support and pricing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Follow-up to llm-typesafe, which you loved; new LLM tooling.&lt;/em&gt; · score 7/10 · Simon Willison&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://developers.openai.com/api/docs/guides/decisions"&gt;Hacker News&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Veteran Game World Designer Explains Why Bigger Game Worlds Aren’t Always Better</title>
+    <link href="https://80.lv/articles/veteran-game-world-designer-explains-why-bigger-game-worlds-aren-t-always-better/"/>
+    <id>https://80.lv/articles/veteran-game-world-designer-explains-why-bigger-game-worlds-aren-t-always-better/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>80 Level</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.80.lv/api/upload/post/41872/images/6ac5876fefd56/cover_800x800.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;World designer Nathan Cheever explains how traversal speed, encounter density, reusable spaces and production resources set the right size for a game world.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Design insight relevant to procedural world and city scale.&lt;/em&gt; · score 6/10 · 80 Level&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>More Biomes!</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wz5oft/more_biomes/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wz5oft/more_biomes/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/OXNtcGVqdTc2dnRoMe3DiKa61PtFhAV2eGqDPHWVnPSb-DLa9H8-OVrsvjxk.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cc64d502e980400f4c67bf4e4e5937c646506b59" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev shows two new biomes, a geothermal flats and a highland-like one, for the runtime procedural terrain generator in their game Elysmere.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural terrain and biome generation, closely aligned.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I’m trying to build a procedural planet from orbit down to individual houses... first step: my "Pixel Planet"</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wz3bsc/im_trying_to_build_a_procedural_planet_from_orbit/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1wz3bsc/im_trying_to_build_a_procedural_planet_from_orbit/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/bf10hbcwputh1.gif?width=640&amp;amp;crop=smart&amp;amp;s=e11a453b17038aa5d60e9ed275c47660554bf2a4" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer shares an early pixel-art planet as the first step toward a procedural planet that can be explored from orbit to individual houses.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural planets relate to your space and procgen interests.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Raytraced Audio is magical</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wz4374/raytraced_audio_is_magical/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wz4374/raytraced_audio_is_magical/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bW12bnN0N3d3dXRoMSqx1YZ2RkGuDha1WTPAB0VgmAg5jG-faR23l_nyCExR.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6bd9f858a0b83bd7e94eddd03d19d2628ec81a7e" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity dev replaces hand-placed audio zones with raytraced audio and reports much more convincing room acoustics.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Interesting Unity technique, though audio is peripheral to your work.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Working on a new forest arena for Brutal Derby</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wz4un2/working_on_a_new_forest_arena_for_brutal_derby/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wz4un2/working_on_a_new_forest_arena_for_brutal_derby/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MXpzOHg1eTgzdnRoMfaMRV6yysWe97DEgHy9O-msOLgSyrUReZxrO0b6Yzjs.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4918a2d4d18593b273f35c7df108c6b7194d2b15" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev shares a dense forest arena for a Unity 6.5 URP car-combat game and the performance challenges of vegetation density.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity 6 performance content, but mostly a showcase.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Pixelated &amp; triplanar terrain mapping with toon shadowing</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wzo7mc/pixelated_triplanar_terrain_mapping_with_toon/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wzo7mc/pixelated_triplanar_terrain_mapping_with_toon/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/0f7nscoyazth1.png?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=c56a515562a30960db726458873156cb429ffee1" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev shares a pixelated triplanar terrain mapping shader with toon shading, a tutorial link and freely shareable shaders. It has edge artifacts and doesn't work in HDRP.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Shader craft in Unity with shareable code.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>🚆 One More Rail is now playable in your browser The new WASM build is live, bringing the…</title>
+    <link href="https://fosstodon.org/@melokki/117399025459574640"/>
+    <id>https://fosstodon.org/@melokki/117399025459574640</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;The terminal-style railway management game One More Rail now has a WASM build playable in the browser.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Small management sim you can try instantly.&lt;/em&gt; · score 6/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Take out some monsters and then turn them into take-out in the post-apocalyptic tycoon survival sim Midwest 90: Rapid City, out in early access next month</title>
+    <link href="https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month"/>
+    <id>https://www.rockpapershotgun.com/take-out-some-monsters-and-then-turn-them-into-take-out-in-the-post-apocalyptic-tycoon-survival-sim-midwest-90-rapid-city-out-in-early-access-next-month</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Rock Paper Shotgun</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://assetsio.gnwcdn.com/midwest-90-rapid-ctiy.jpg?width=690&amp;amp;quality=85&amp;amp;format=jpg&amp;amp;auto=webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Midwest 90: Rapid City is a post-apocalyptic tycoon survival sim where you run a roadhouse that cooks mutated monsters. It enters early access next month.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New tycoon/survival sim, fits your management interests.&lt;/em&gt; · score 6/10 · Rock Paper Shotgun&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Strands Decider 2B: a small, open-source, decision model</title>
+    <link href="https://strandsagents.com/blog/introducing-strands-decider/"/>
+    <id>https://strandsagents.com/blog/introducing-strands-decider/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://strandsagents.com/blog/og/introducing-strands-decider.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Strands releases Decider 2B, a small open-source decision model, announced on HN with 182 points.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New open LLM tooling, related to the decision-model plugins you liked.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>When random is not actually random enough</title>
+    <link href="https://ersc.io/blog/when-random-isnt-random-enough"/>
+    <id>https://ersc.io/blog/when-random-isnt-random-enough</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://ersc.io/og/blog/when-random-isnt-random-enough.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Lobsters post about cases where randomness isn't random enough, with no further description.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Randomness quality matters for procgen and Monte Carlo sims.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Why We Should Inject Dependencies</title>
+    <link href="https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347"/>
+    <id>https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Lobsters post arguing for dependency injection in software design.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Architecture and DI are in your Unity engineering interests.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>anthropics/knowledge-work-plugins</title>
+    <link href="https://github.com/anthropics/knowledge-work-plugins"/>
+    <id>https://github.com/anthropics/knowledge-work-plugins</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/edfda922c94962894038435691bfcdbe9f4586eb95c12c7d2d623a5cf7046f7e/anthropics/knowledge-work-plugins" alt=""&gt;&lt;/p&gt;&lt;p&gt;Anthropic's open-source repo of plugins for Claude Cowork, also compatible with Claude Code, that specialize Claude for roles and workflows.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Official Claude plugin repo, though aimed at knowledge workers.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>omnigent-ai/omnigent</title>
+    <link href="https://github.com/omnigent-ai/omnigent"/>
+    <id>https://github.com/omnigent-ai/omnigent</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/1d9d0a18f7fa12cd8cd151e7cddd417064623d16d6a8c61bfdd970f51ae7455e/omnigent-ai/omnigent" alt=""&gt;&lt;/p&gt;&lt;p&gt;Omnigent is an open-source meta-harness that orchestrates Claude Code, Codex, Cursor and other agents with policies, sandboxing and remote collaboration.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent orchestration tooling relevant to Claude Code workflows.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>morluto/rea</title>
+    <link href="https://github.com/morluto/rea"/>
+    <id>https://github.com/morluto/rea</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc" alt=""&gt;&lt;/p&gt;&lt;p&gt;REA is an MCP server that lets agents reverse engineer apps and binaries, installed via npx.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New MCP tool for agents, though reverse engineering is niche for you.&lt;/em&gt; · score 6/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Scrimshaw Jukebox</title>
+    <link href="https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/"/>
+    <id>https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/scrimshaw.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Simon Willison had Claude Opus 5.5 design a text music format and build a player, producing Monkey Island-style game music in an artifact.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Claude experiment producing game music tooling.&lt;/em&gt; · score 6/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave</title>
+    <link href="https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave"/>
+    <id>https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Game Developer</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6b0e02a1ca615f6b/6ac50cb9db91d718576c4723/backroomscodevfeatured.jpg?width=720&amp;amp;quality=80&amp;amp;disable=upscale" alt=""&gt;&lt;/p&gt;&lt;p&gt;A case study of how Blackbird Interactive and Secret Mode co-developed Escape the Backrooms, which reached over 4 million players.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Indie launch case study, but a horror game outside your genres.&lt;/em&gt; · score 5/10 · Game Developer&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Extremely pleased with progress on the game in the past few days. It's finally starting…</title>
+    <link href="https://mastodon.gamedev.place/@thomastc/117395811574816193"/>
+    <id>https://mastodon.gamedev.place/@thomastc/117395811574816193</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Mastodon #procgen</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;A Godot dev reports progress turning a procgen port-based game into something playable, with buoys marking ports and sky tweaks.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procgen game dev log, loosely related to your toys.&lt;/em&gt; · score 5/10 · Mastodon #procgen&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Some bugs I had ! 😅 If the 2d surface is "flat", the noise won't converge at the poles…</title>
+    <link href="https://mastodon.social/@elbloco80/117394177002044597"/>
+    <id>https://mastodon.social/@elbloco80/117394177002044597</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Mastodon #proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.masto.host/mastodongamedevplace/cache/media_attachments/files/117/394/620/169/541/235/original/da6372441aba5657.mp4" alt=""&gt;&lt;/p&gt;&lt;p&gt;A dev shares bugs from mapping noise onto a flat 2D surface for a sphere, where noise fails to converge at the poles and seams appear.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Noise on planets is relevant to procedural terrain work.&lt;/em&gt; · score 5/10 · Mastodon #proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>September 2026’s top new PC &amp; console games, revealed...</title>
+    <link href="https://newsletter.gamediscover.co/p/september-2026s-top-new-pc-and-console"/>
+    <id>https://newsletter.gamediscover.co/p/september-2026s-top-new-pc-and-console</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>GameDiscoverCo</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!_-bq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F535c9992-393d-49da-8575-5c8e1f7bed3a_1900x1069.jpeg" alt=""&gt;&lt;/p&gt;&lt;p&gt;GameDiscoverCo's roundup of top new PC and console games for September 2026, plus discovery and platform news.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Launch and discovery data, though a general roundup.&lt;/em&gt; · score 5/10 · GameDiscoverCo&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Car Park Capital's cities are utopias of public transport networks and green living, or they were before I got done with them</title>
+    <link href="https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them"/>
+    <id>https://www.rockpapershotgun.com/car-park-capitals-cities-are-utopias-of-public-transport-networks-and-green-living-or-they-were-before-i-got-done-with-them</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Rock Paper Shotgun</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://assetsio.gnwcdn.com/car-park-capital-header.jpg?width=690&amp;amp;quality=85&amp;amp;format=jpg&amp;amp;auto=webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Rock Paper Shotgun hands-on with Car Park Capital, a city-builder where you play the car industry undoing public-transport-heavy cities.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: City-building management sim with a systemic twist.&lt;/em&gt; · score 5/10 · Rock Paper Shotgun&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mistral Large 4</title>
+    <link href="https://mistral.ai/news/mistral-large-4/\"/>
+    <id>https://mistral.ai/news/mistral-large-4/\</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;Mistral released Large 4, with documentation linked from HN and very high engagement at 1831 points.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable model release, though not agent-specific.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://simonwillison.net/2026/Oct/6/llm-mistral/"&gt;Simon Willison&lt;/a&gt; · &lt;a href="https://simonwillison.net/2026/Oct/6/le-chonk/"&gt;Simon Willison&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Benchmark in Milliseconds</title>
+    <link href="https://matklad.github.io/2026/10/05/benchmark-milliseconds.html"/>
+    <id>https://matklad.github.io/2026/10/05/benchmark-milliseconds.html</id>
+    <updated>2026-10-07T10:58:11.027525+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;Matklad argues for benchmarking in milliseconds, with a post on benchmarking practice.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Performance craft relevant to your headless sim and perf work.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>I built an engine that turns a text prompt into a full building – rooms, stairs, furniture, colliders – and exports it to GLB/FBX</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1wyjk74/i_built_an_engine_that_turns_a_text_prompt_into_a/"/>
