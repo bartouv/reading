@@ -4,7 +4,259 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-07T10:58:42.942668+00:00</updated>
+  <updated>2026-10-08T11:15:26.177365+00:00</updated>
+  <entry>
+    <title>Terrain generator built on plate tectonics: erosion, rain shadows, rivers, biomes and trees</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x06lq5/terrain_generator_built_on_plate_tectonics/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x06lq5/terrain_generator_built_on_plate_tectonics/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/7dls56mvp3uh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ac858e982e6b2bb000e7210cee984cd262c31011" alt=""&gt;&lt;/p&gt;&lt;p&gt;A terrain generator that simulates plate tectonics, then layers erosion, rain shadows, rivers, biomes and tree placement.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Core procedural terrain work with simulation-driven generation.&lt;/em&gt; · score 9/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I recreated Manifold Garden's endless fall and outlines in Unity 6 URP (open source, also measured on an Intel iGPU)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wzv4vg/i_recreated_manifold_gardens_endless_fall_and/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wzv4vg/i_recreated_manifold_gardens_endless_fall_and/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MWhzanY5bXhmMXVoMbY0xMKjn1f7CpSKxUQMvpvNLjRJsuoBLF1olaHhpk8j.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b31696a0618ea7598fd52f2090f980f4473bd951" alt=""&gt;&lt;/p&gt;&lt;p&gt;Open-source Unity 6 URP recreation of Manifold Garden's endless fall and outlines, using merged mesh, RenderMeshInstanced, fog-driven culling and Render Graph; measured on an Intel iGPU.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deep Unity rendering and performance craft, open source.&lt;/em&gt; · score 9/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Claude Haiku 5.5</title>
+    <link href="https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"/>
+    <id>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026-10-07/haiku-5.5-max.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Anthropic released Claude Haiku 5.5, a fast low-cost model priced at $0.10/$0.50 per million tokens up to 100k tokens, matching GPT-6 Luna.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Notable Claude model release relevant to agent tooling.&lt;/em&gt; · score 8/10 · Simon Willison&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://www.latent.space/p/ainews-claude-haiku-55-better-than"&gt;Latent Space&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How I’m generating a container port in my game</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x088up/how_im_generating_a_container_port_in_my_game/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x088up/how_im_generating_a_container_port_in_my_game/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MmkxMGprcHl6M3VoMZyx3bf7_AXZBAZOU3KJDOM7DycgTUYQA3Hx2DIfATFp.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c020f2c106813eb293d522624e859d34d193f56a" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer of Spore-era procgen shows how he generates container ports for Ultrapolis, a cyberpunk diorama city builder.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural city generation from an experienced procgen developer.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Unity can't rig my art, so I built my own animation editor</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1wzz9ke/unity_cant_rig_my_art_so_i_built_my_own_animation/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1wzz9ke/unity_cant_rig_my_art_so_i_built_my_own_animation/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/b25xZmplazNiMnVoMbapwueOaBJ3pNQOHhyrpaFye5XFd4U9viQRJAbOfkWY.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=53923cbae83ea47118894aaf9ecf23b76f24a580" alt=""&gt;&lt;/p&gt;&lt;p&gt;A developer built a custom animation editor for Slumber Realm, whose characters are made of thousands of painted dots with bone attachments and timeline event tags.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity editor tooling and custom animation pipeline.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>At long last, my name generator library Namelib is available! It can read in ASCII text…</title>
+    <link href="https://mastodon.social/@cyningstan/117404926294265264"/>
+    <id>https://mastodon.social/@cyningstan/117404926294265264</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Namelib is a small, fast name generator library that learns from text in a language to produce names for game factions or regions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Useful procgen tool for faction and region naming.&lt;/em&gt; · score 7/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: A modern low-poly SimCity 2000 clone, built by Opus 5.5</title>
+    <link href="https://dator.dev/city2026/"/>
+    <id>https://dator.dev/city2026/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;A Show HN project where Opus 5.5 with subagents decompiled SimCity 2000 via Ghidra and translated it into a TypeScript WebGL low-poly clone in a few days.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agentic coding workflow applied to a city sim classic.&lt;/em&gt; · score 7/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I'm making a game with a procedural megacity. Here's a timelapse of how I setup a city block (survivors-like driving game)</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x0eqw4/im_making_a_game_with_a_procedural_megacity_heres/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x0eqw4/im_making_a_game_with_a_procedural_megacity_heres/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;A timelapse of setting up a city block for a procedural megacity in a survivors-like driving game.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural city generation, though light on detail.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Docker Agent</title>
+    <link href="https://github.com/docker/docker-agent"/>
+    <id>https://github.com/docker/docker-agent</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/d73aa108b661d7e80352c0d7d432981ba18a4456207fda1b5f52b70d2a0f00a7/docker/docker-agent" alt=""&gt;&lt;/p&gt;&lt;p&gt;Docker released an open-source Docker Agent project on GitHub, drawing a large HN discussion.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent tooling worth a look.&lt;/em&gt; · score 6/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>jujutsu (jj) 0.46.0</title>
+    <link href="https://github.com/jj-vcs/jj/releases/tag/v0.46.0"/>
+    <id>https://github.com/jj-vcs/jj/releases/tag/v0.46.0</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/7a050c9aa9a5c0676c156ffdd3878b96fca9be4fbed70d094a5c9516ec497f3c/jj-vcs/jj/releases/tag/v0.46.0" alt=""&gt;&lt;/p&gt;&lt;p&gt;Release 0.46.0 of jujutsu (jj), the Git-compatible version control system.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Relevant to git workflows and dev tooling.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Property Testing with Agent Swarms</title>
+    <link href="https://recursion.wtf/posts/agents-and-property-tests/"/>
+    <id>https://recursion.wtf/posts/agents-and-property-tests/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;A post on using swarms of AI agents to do property-based testing.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent workflows plus testing, relevant to headless sim testing.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>my thoughts on AI coding</title>
+    <link href="https://www.youtube.com/shorts/_xlNsK4hD8Y"/>
+    <id>https://www.youtube.com/shorts/_xlNsK4hD8Y</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Freya Holmér</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i4.ytimg.com/vi/_xlNsK4hD8Y/hqdefault.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Freya Holmér shares her views on AI coding, drawn from a longer livestream conversation.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Respected graphics dev's take on AI coding, though opinion.&lt;/em&gt; · score 6/10 · Freya Holmér&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform</title>
+    <link href="https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform"/>
+    <id>https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Game Developer</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;Unity announced Unity Spark, a prompt-based game creation tool built with Google's AI game platform.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity news, but prompt-based and tangential to your craft.&lt;/em&gt; · score 5/10 · Game Developer&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/"&gt;80 Level&lt;/a&gt; · &lt;a href="https://mastodon.gamedev.place/@GameFromScratch/117400123527194903"&gt;Mastodon #unity3d&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>GTA 1's Vehicle Physics Are Now Playable In Your Browser</title>
+    <link href="https://80.lv/articles/gta-1-s-vehicle-physics-are-now-playable-in-your-browser/"/>
+    <id>https://80.lv/articles/gta-1-s-vehicle-physics-are-now-playable-in-your-browser/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>80 Level</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.80.lv/api/upload/post/41886/images/6ac68fe1a282c/cover_800x800.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Former GTA programmer Patrick Kerr released GTA 1's vehicle physics in a browser and explained how the system works.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Interesting game physics internals from the original developer.&lt;/em&gt; · score 5/10 · 80 Level&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedural bot swarms approach city bounds (C++/OpenGL/GLSL)</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x0j864/procedural_bot_swarms_approach_city_bounds/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x0j864/procedural_bot_swarms_approach_city_bounds/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/4iGdQn8ixFgvEZ0eBxRHA5JWtIrtsBnvKPIFWDI0eCM.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e1a339335ce27156a3e36bbec96c23d49a08f0ac" alt=""&gt;&lt;/p&gt;&lt;p&gt;A clip of procedural bot swarms approaching city bounds in Infinicity, a C++/OpenGL/GLSL procgen project.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural city and swarm behavior, minimal detail.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Procedurally grown Voxel trees in Unreal 5.6 using a Space Colinisation algorithm</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x0n3fi/procedurally_grown_voxel_trees_in_unreal_56_using/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x0n3fi/procedurally_grown_voxel_trees_in_unreal_56_using/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;Voxel trees grown in Unreal 5.6 using the space colonization algorithm.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural tree growth technique, transferable though in Unreal.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Ocean waves with 3D GPU particles emission from the wave crests, emulating strong wind effect with water leaving the wave</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x09i9e/ocean_waves_with_3d_gpu_particles_emission_from/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x09i9e/ocean_waves_with_3d_gpu_particles_emission_from/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cWN1M3QxeTM5NHVoMfSn2biCVEL-K7ulqc8_P7tdOoc7Ycnb29zfNx2Bhlfq.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=34057538b6a118f97943a4df4bd05341a90068c7" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Unity demo of ocean waves with GPU particles emitted from wave crests to simulate wind-blown spray.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity GPU effects and shader-adjacent work.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I made a factory game where light is your resource</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x0222j/i_made_a_factory_game_where_light_is_your_resource/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x0222j/i_made_a_factory_game_where_light_is_your_resource/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/aHZobDU5cXRzMnVoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9d49ed6e76632a1138ad3db5f6f602c9838699cb" alt=""&gt;&lt;/p&gt;&lt;p&gt;Light Factory is a Unity factory game where players bend colored light beams to fill pixels. The dev credits transparent colored shadow maps as the main technical piece.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity automation game with a rendering technique.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>houdini to unity</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x0bqpv/houdini_to_unity/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x0bqpv/houdini_to_unity/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/eWZjeWgwN2VxNHVoMfhbKeC12gET4b1EBazPHt2mCCW7V2ScV_LGGXmGD9IW.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=893d9e94524e6de8083c9d03f77c98b446142b57" alt=""&gt;&lt;/p&gt;&lt;p&gt;Small Houdini HDAs for building maps in Unity, driven by base curves as guides.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural map tooling for Unity.&lt;/em&gt; · score 5/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Push ifs up and fors down: The idiom, its algebra, and its limits</title>
+    <link href="https://debasishg.github.io/blog/push-ifs-up-fors-down/"/>
+    <id>https://debasishg.github.io/blog/push-ifs-up-fors-down/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;An essay on the 'push ifs up, fors down' idiom, covering its algebra and where it breaks down.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: General programming craft and performance thinking.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust</title>
+    <link href="https://github.com/storytold/photocraft"/>
+    <id>https://github.com/storytold/photocraft</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/42bfe5768fa0a0a02b585a99e66cfb76338ba0d8a940bf6d13ed6fced173b39e/storytold/photocraft" alt=""&gt;&lt;/p&gt;&lt;p&gt;An open-source clean-room reimplementation of Adobe Photoshop written in pure Rust.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Interesting project, but outside your core interests.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Agent.reviews – Where AI agents read and write reviews on tools</title>
+    <link href="https://agent.reviews/"/>
+    <id>https://agent.reviews/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://agent.reviews/assets/brand/og-agent-reviews-v4.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Agent.reviews is a site where AI agents read and write reviews of developer tools, from a YC startup selling agent discoverability.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent tooling idea, but startup-flavored and unproven.&lt;/em&gt; · score 5/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>icsharpcode/ILSpy</title>
+    <link href="https://github.com/icsharpcode/ILSpy"/>
+    <id>https://github.com/icsharpcode/ILSpy</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/f1d9f0368f895ca7f693ba91a56832ba2bc5b144a4863c535d6e2a355a111dde/icsharpcode/ILSpy" alt=""&gt;&lt;/p&gt;&lt;p&gt;ILSpy, the open-source cross-platform .NET decompiler and assembly browser, is trending on GitHub.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Useful C# tool for inspecting assemblies, including Unity's.&lt;/em&gt; · score 5/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>microsoft/markitdown</title>
+    <link href="https://github.com/microsoft/markitdown"/>
+    <id>https://github.com/microsoft/markitdown</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/0fb38ba1a271c4161c2111e9c20b853544f357ef834f2143ff39224bb9845aa1/microsoft/markitdown" alt=""&gt;&lt;/p&gt;&lt;p&gt;Microsoft's MarkItDown is a Python tool that converts office documents and other files to Markdown.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Handy utility for feeding documents to LLMs.&lt;/em&gt; · score 5/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>vercel/eve</title>
+    <link href="https://github.com/vercel/eve"/>
+    <id>https://github.com/vercel/eve</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>GitHub Trending: TypeScript</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/be19d84a42ff930e8648f7d64d9021635fe8264ff93e8d2ad46316d768fb0a5b/vercel/eve" alt=""&gt;&lt;/p&gt;&lt;p&gt;Vercel's eve is a filesystem-first TypeScript framework for durable AI agents, with instructions, tools and config in conventional folders.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent framework, TypeScript, worth evaluating.&lt;/em&gt; · score 5/10 · GitHub Trending: TypeScript&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Beta: Intent</title>
+    <link href="https://tanstack.com/intent/latest?ref=console.dev"/>
+    <id>https://tanstack.com/intent/latest?ref=console.dev</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Console.dev</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://tanstack.com/api/og/intent.png?v=2" alt=""&gt;&lt;/p&gt;&lt;p&gt;Intent is a beta CLI for shipping and maintaining agent skills.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New CLI for Claude-style skills tooling.&lt;/em&gt; · score 5/10 · Console.dev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Anti-Patterns in Software Blogging</title>
+    <link href="https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"/>
+    <id>https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;Simon Willison highlights Michael Lynch's writing advice on software blogging, such as avoiding meandering intros and over-linking instead of explaining terms.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Useful for your technical dev blog.&lt;/em&gt; · score 5/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?</title>
+    <link href="https://www.latent.space/p/stacklok"/>
+    <id>https://www.latent.space/p/stacklok</id>
+    <updated>2026-10-08T11:14:54.832761+00:00</updated>
+    <author><name>Latent Space</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!r55R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1c3cd3d-2682-47cb-9be6-74302c1ca8ea_2560x1440.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Latent Space interviews Kubernetes co-creators Craig McLuckie and Joe Beda about bringing agent harnesses fully into the cloud.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent infrastructure topic, but cloud-focused and less practical.&lt;/em&gt; · score 5/10 · Latent Space&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Unity 7.0 Alpha - featuring the CoreCLR Editor - is now available</title>
     <link href="https://www.reddit.com/r/Unity3D/comments/1wzjinx/unity_70_alpha_featuring_the_coreclr_editor_is/"/>
