@@ -4,7 +4,232 @@
   <subtitle>Gamedev, procedural generation, sims, Unity, and AI tooling, scored by Claude</subtitle>
   <link rel="self" href="https://bartouv.github.io/reading/feed.xml"/>
   <id>https://bartouv.github.io/reading/feed.xml</id>
-  <updated>2026-10-09T11:14:23.683243+00:00</updated>
+  <updated>2026-10-10T10:32:48.312695+00:00</updated>
+  <entry>
+    <title>[ECS] Multithreaded LocalToWorld updater for hierarchies with some depth</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x20dni/ecs_multithreaded_localtoworld_updater_for/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x20dni/ecs_multithreaded_localtoworld_updater_for/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Open-source repo with a multithreaded LocalToWorld transform updater for deep hierarchies in Unity ECS, extracted from the author's game using Codex.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity DOTS performance tool with code you could drop in.&lt;/em&gt; · score 8/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Progress on my procedurally generated caves with procedural creatures</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x297j6/progress_on_my_procedurally_generated_caves_with/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x297j6/progress_on_my_procedurally_generated_caves_with/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://preview.redd.it/lwfyxsfvcluh1.png?width=140&amp;amp;height=88&amp;amp;auto=webp&amp;amp;s=eaa8addcb8acf1420ae435dd63999eeb26fd075c" alt=""&gt;&lt;/p&gt;&lt;p&gt;Dev shares progress on procedurally generated caves with genetic-algorithm-evolved creatures; manually curating playable caves is the main bottleneck.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural generation plus evolving ecosystems, close to your projects.&lt;/em&gt; · score 7/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>This is how we made blood stains work in our game, hope it's useful!</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x1ohus/this_is_how_we_made_blood_stains_work_in_our_game/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x1ohus/this_is_how_we_made_blood_stains_work_in_our_game/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/cjNxdDc2a3FrZ3VoMSW2_k-mBhpozLIuqr-N-Gjsu_KiYVxc95V0AADH5_WL.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c3a6b5b56303e4e5c1a816f7d7273589d7233f24" alt=""&gt;&lt;/p&gt;&lt;p&gt;Devs explain a custom shader and GPU-instanced decal system for blood stains, with a capped pool of recycled decals.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity shader and instancing technique, relevant to your draw-call writing.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Anybody using the Unity CLI?</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x1x7sd/anybody_using_the_unity_cli/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x1x7sd/anybody_using_the_unity_cli/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;Reddit thread asking whether anyone uses Unity's new CLI, with CI pipelines as a suggested use.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Unity tooling and CI relevance, though it's a thin discussion.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fix (kinda) for vertex/object jitter at (sanely) large world coordinates in URP (without a floating origin)</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x2018v/fix_kinda_for_vertexobject_jitter_at_sanely_large/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x2018v/fix_kinda_for_vertexobject_jitter_at_sanely_large/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;A modified URP projection calculation that compensates for rounding errors to reduce vertex jitter at large world coordinates without a floating origin.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Deep Unity rendering fix, useful for your orbital space tycoon.&lt;/em&gt; · score 7/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Running Unity 6000.x Headless Builds in a Linux Container: A Field Report (Including…</title>
+    <link href="https://www.urbanmind.net/display/f7dd981d-edb2d28c-842d5c47f0191b36"/>
+    <id>https://www.urbanmind.net/display/f7dd981d-edb2d28c-842d5c47f0191b36</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Mastodon #unity3d</name></author>
+    <category term="Unity &amp; Graphics"/>
+    <content type="html">&lt;p&gt;A field report on running Unity 6000.x headless builds in a Linux container, covering licensing workarounds and dead ends.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical Unity 6 build and CI tooling.&lt;/em&gt; · score 7/10 · Mastodon #unity3d&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The Dark Art of Roguelike Math: Deconstructing Hyperbolic Curves, Proc DAGs, and…</title>
+    <link href="https://www.urbanmind.net/display/f7dd981d-ca392244-5e65ae5e1808bc13"/>
+    <id>https://www.urbanmind.net/display/f7dd981d-ca392244-5e65ae5e1808bc13</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Mastodon #gamedev</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;A post on roguelike math: hyperbolic curves, procedural DAGs and floating-point traps, with TypeScript examples.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Roguelike economy and progression math, though in TypeScript.&lt;/em&gt; · score 7/10 · Mastodon #gamedev&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A cellular automata that shrink-wraps a rubber band around scattered stones</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x1wroo/a_cellular_automata_that_shrinkwraps_a_rubber/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x1wroo/a_cellular_automata_that_shrinkwraps_a_rubber/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;A visual demo of a cellular automaton that shrink-wraps a rubber-band shape around scattered stones.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural algorithm demo, but it has little detail.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>I trained a small diffusion model on my procedural terrain generator. It runs in the browser and exports heightmaps.</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x1ubsj/i_trained_a_small_diffusion_model_on_my/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x1ubsj/i_trained_a_small_diffusion_model_on_my/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/bWlsb2pobHZyaHVoMbL3Z1HT0gkJNucuY6ShbTzEDZdmCVYHkvDK8LNiVy0l.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a5919d6ac1308bebba7c951290965e2bdc5b4049" alt=""&gt;&lt;/p&gt;&lt;p&gt;A small diffusion model trained on the author's procedural terrain generator, running in the browser and exporting heightmaps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Terrain generation combined with ML, with a usable tool.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>My PCG tool deserved a small promo video</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x1k8vj/my_pcg_tool_deserved_a_small_promo_video/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x1k8vj/my_pcg_tool_deserved_a_small_promo_video/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/MjkzaW50d3FyZnVoMTYeL1YAtO9Fz7w16G-4DH-tr1VEy8DETz0JXYAtp4pB.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8392ab97b9fabb39b90c9b6287833d7b89de4c2b" alt=""&gt;&lt;/p&gt;&lt;p&gt;Release video for OctoShaper v1.2, a Unity graph-based PCG tool that adds procedural meshes, colliders, shader property forwarding and async graphs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New Unity procedural generation tooling, though partly self-promotion.&lt;/em&gt; · score 6/10 · r/proceduralgeneration&lt;/p&gt;&lt;p&gt;Also on: &lt;a href="https://www.reddit.com/r/Unity3D/comments/1x1k06l/using_unity_timeline_for_my_promo_video_was_the/"&gt;r/Unity3D&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Algorama 09 - Ram - Making some progress on my procedural generation daily challenge</title>
+    <link href="https://www.reddit.com/r/Unity3D/comments/1x1uex7/algorama_09_ram_making_some_progress_on_my/"/>
+    <id>https://www.reddit.com/r/Unity3D/comments/1x1uex7/algorama_09_ram_making_some_progress_on_my/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/Unity3D</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/OTlwYjRtbzFyaHVoMWeqWygLsjZ-vDsqNGyeJgXsERl1tWsoWMXE82e7gfa1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d6bd4e07d32650456b066a47d82fa4aa83de9ab0" alt=""&gt;&lt;/p&gt;&lt;p&gt;Day 9 of a daily procedural generation challenge in Unity: a small castle scene with some hand-placed walls.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural castle and path generation, but a light progress post.&lt;/em&gt; · score 6/10 · r/Unity3D&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>How Dressmaker became ‘ready to wear’ for hundreds of thousands of players!</title>
+    <link href="https://newsletter.gamediscover.co/p/how-dressmaker-became-ready-to-wear"/>
+    <id>https://newsletter.gamediscover.co/p/how-dressmaker-became-ready-to-wear</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>GameDiscoverCo</name></author>
+    <category term="Indie Business"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://substackcdn.com/image/fetch/$s_!GnJc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04a88af8-f8ef-429d-b8fd-726198cd8c3e_800x450.jpeg" alt=""&gt;&lt;/p&gt;&lt;p&gt;GameDiscoverCo newsletter on how the game Dressmaker reached hundreds of thousands of players, plus discovery news and Steam highlights.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Indie launch and discovery data, though the genre is off-profile.&lt;/em&gt; · score 6/10 · GameDiscoverCo&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Why Are Coding Agents So Dumb?</title>
+    <link href="https://mtlynch.io/why-are-coding-agents-so-dumb/"/>
+    <id>https://mtlynch.io/why-are-coding-agents-so-dumb/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://mtlynch.io/why-are-coding-agents-so-dumb/cover.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Lobsters link to a discussion piece asking why coding agents perform poorly; the snippet shows no content.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Coding-agent topic, but the substance is unclear.&lt;/em&gt; · score 6/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>headroomlabs-ai/headroom</title>
+    <link href="https://github.com/headroomlabs-ai/headroom"/>
+    <id>https://github.com/headroomlabs-ai/headroom</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/5a235458272c19898fe665aaaa081cb1c4142a7b09d2fa23b299e59adf63821c/headroomlabs-ai/headroom" alt=""&gt;&lt;/p&gt;&lt;p&gt;Headroom is a library, proxy and MCP server that compresses tool outputs, logs and RAG chunks before they reach the LLM, claiming 20% fewer tokens for coding agents.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical agent tooling with MCP that could cut Claude Code costs.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>tirth8205/code-review-graph</title>
+    <link href="https://github.com/tirth8205/code-review-graph"/>
+    <id>https://github.com/tirth8205/code-review-graph</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>GitHub Trending: Python</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/a257d56932c2a6c4335a84793732c963a55908c61fe295e7577bf864d8bcd50d/tirth8205/code-review-graph" alt=""&gt;&lt;/p&gt;&lt;p&gt;A local code knowledge graph served over MCP and CLI so AI coding tools read only the relevant code, with benchmarked context reductions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New MCP tool for agentic coding workflows.&lt;/em&gt; · score 6/10 · GitHub Trending: Python&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A new feature for my blog, built using my voice</title>
+    <link href="https://simonwillison.net/2026/Oct/9/built-using-my-voice/"/>
+    <id>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Simon Willison</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://static.simonwillison.net/static/2026/codex-voice.webp" alt=""&gt;&lt;/p&gt;&lt;p&gt;Simon Willison describes building a Newsletters page for his blog almost entirely by voice, using Codex voice mode in the ChatGPT desktop app.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Practical agent workflow from a author you liked.&lt;/em&gt; · score 6/10 · Simon Willison&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>This Rhythm RPG Was Rebuilt Three Times During Its 10-Year Development</title>
+    <link href="https://80.lv/articles/this-rhythm-rpg-was-rebuilt-three-times-during-its-10-year-development/"/>
+    <id>https://80.lv/articles/this-rhythm-rpg-was-rebuilt-three-times-during-its-10-year-development/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>80 Level</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://cdn.80.lv/api/upload/post/41922/images/6ac9497fac67e/cover_800x800.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;Interview with the developer of the rhythm RPG Nocturne on a 10-year development, three rebuilds, and its tools, art and music.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Long-form dev postmortem, but a rhythm RPG is off-genre.&lt;/em&gt; · score 5/10 · 80 Level&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>solarpunk city building game</title>
+    <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x1zv0x/solarpunk_city_building_game/"/>
+    <id>https://www.reddit.com/r/proceduralgeneration/comments/1x1zv0x/solarpunk_city_building_game/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>r/proceduralgeneration</name></author>
+    <category term="Procedural"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://external-preview.redd.it/aG5ob2N1YjN4aXVoMY-DTIxmfCzAzjcE78lxeyzftFJ3dhC3Lbar6aPR80ZU.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8fbf7a4647d8d0f060d58c7732109d313cabe873" alt=""&gt;&lt;/p&gt;&lt;p&gt;Demo of a cozy solarpunk city builder that procedurally populates and decorates buildings and vegetation.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Procedural city building, which is your core interest.&lt;/em&gt; · score 5/10 · r/proceduralgeneration&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>REA Reverse – Engineer Anything</title>
+    <link href="https://rea.tools/"/>
+    <id>https://rea.tools/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://rea.tools/assets/social-card.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A Hacker News-popular site called REA, pitched as a tool to reverse-engineer anything; the snippet gives no details.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Possibly a new tool, but the content is unclear.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Triple-A Minesweeper</title>
+    <link href="https://minesweeper.mikelacher.com/"/>
+    <id>https://minesweeper.mikelacher.com/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Hacker News</name></author>
+    <category term="Game Design"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://minesweeper.mikelacher.com/images/share.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;A highly upvoted joke Minesweeper site, "Triple-A Minesweeper".&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Game humor with little relevance to your work.&lt;/em&gt; · score 5/10 · Hacker News&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Branches in branch-free code</title>
+    <link href="https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/"/>
+    <id>https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Lobsters</name></author>
+    <category term="Other"/>
+    <content type="html">&lt;p&gt;Lobsters post about branches that remain inside supposedly branch-free code.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Low-level performance craft, outside Unity.&lt;/em&gt; · score 5/10 · Lobsters&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Let your AI agents paint big arrows, boxes and text on your screen</title>
+    <link href="https://github.com/franzenzenhofer/big-arrow-on-the-screen"/>
+    <id>https://github.com/franzenzenhofer/big-arrow-on-the-screen</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/904770f025c55dd93eecf9712fa09a0ba0daa125039b276935a5844eea754b0b/franzenzenhofer/big-arrow-on-the-screen" alt=""&gt;&lt;/p&gt;&lt;p&gt;Show HN tool that lets AI agents draw large arrows, boxes and text on your screen.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: New agent tooling, though a niche gimmick.&lt;/em&gt; · score 5/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked</title>
+    <link href="https://pocketty.app/"/>
+    <id>https://pocketty.app/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Show HN</name></author>
+    <category term="AI &amp; Dev Tools"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://pocketty.app/og.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;Show HN: Pocketty, an iPhone SSH terminal that notifies you when an agent run in herdr needs attention.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Agent workflow tooling, but it's iOS-specific and not Claude Code.&lt;/em&gt; · score 5/10 · Show HN&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>sourcegit-scm/sourcegit</title>
+    <link href="https://github.com/sourcegit-scm/sourcegit"/>
+    <id>https://github.com/sourcegit-scm/sourcegit</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>GitHub Trending: C#</name></author>
+    <category term="New Tools &amp; Libraries"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://opengraph.githubassets.com/9e7013e79192f34ce642d166284a39577f1f5271c868e11471b5dbde2abecd4f/sourcegit-scm/sourcegit" alt=""&gt;&lt;/p&gt;&lt;p&gt;SourceGit is an open-source cross-platform C# Git GUI client with a visual commit graph and themes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: A C# git tool that fits your git-workflow interest.&lt;/em&gt; · score 5/10 · GitHub Trending: C#&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The Big Idea: Dmitri Lincoln Melhorn</title>
+    <link href="https://whatever.scalzi.com/2026/10/09/the-big-idea-dmitri-lincoln-melhorn/"/>
+    <id>https://whatever.scalzi.com/2026/10/09/the-big-idea-dmitri-lincoln-melhorn/</id>
+    <updated>2026-10-10T10:32:18.329136+00:00</updated>
+    <author><name>Scalzi's Whatever</name></author>
+    <category term="Books"/>
+    <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/live.staticflickr.com/65535/55579306089_d2816e3bb1_c.jpg?resize=533%2C799&amp;amp;ssl=1" alt=""&gt;&lt;/p&gt;&lt;p&gt;Scalzi's Big Idea feature on Dmitri Lincoln Melhorn's novel Archipelago of Light, about what a new generation does with the future after collapse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why: Sci-fi Big Idea post, but it appears to be YA-leaning.&lt;/em&gt; · score 5/10 · Scalzi's Whatever&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Procedural suburbs for my road builder: lots fill fence to fence along any curved street, and the whole save state is one number per district</title>
     <link href="https://www.reddit.com/r/proceduralgeneration/comments/1x0xilw/procedural_suburbs_for_my_road_builder_lots_fill/"/>
